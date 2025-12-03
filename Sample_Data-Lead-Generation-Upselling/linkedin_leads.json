@@ -1,402 +1,2679 @@
 [
   {
-    "name": "Noah Brown",
-    "company": "GreenLeaf Corp",
-    "message": "Want to rebuild our website using Next.js.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 77
+    "lead_id": "LNC00101",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAB01",
+      "post_date": "2025-11-28",
+      "post_snippet": "Our team needs to transition off our legacy CRM. Seeking a reliable partner to build a **custom web portal** & integrate a simple **AI chatbot** for L1 support. Looking for proposals ASAP.",
+      "project_type": [
+        "Custom Web App",
+        "AI/Chatbot Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Marcus",
+      "last_name": "Chen",
+      "job_title": "CTO (Chief Technology Officer)",
+      "location": "San Francisco, CA",
+      "email": "marcus.chen@innovateco.com"
+    },
+    "company_profile": {
+      "name": "InnovateCo Financial",
+      "industry": "Financial Services",
+      "size": "201-500 Employees",
+      "funding_status": "Series B ($50M raised)"
+    }
   },
   {
-    "name": "Olivia Ali",
-    "company": "UrbanTech",
-    "message": "Require a Flutter developer for MVP app.",
-    "source": "LinkedIn Comment",
-    "role": "Tech Lead",
-    "engagement_score": 79
+    "lead_id": "LNC00102",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAC02",
+      "post_date": "2025-12-01",
+      "post_snippet": "Does anyone have recommendations for agencies specializing in **mobile app development**? We need an MVP for iOS/Android to track field service data.",
+      "project_type": [
+        "Mobile App Development",
+        "MVP Launch"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Sarah",
+      "last_name": "Kim",
+      "job_title": "VP of Operations",
+      "location": "Dallas, TX",
+      "email": "sarah.kim@fieldlogic.net"
+    },
+    "company_profile": {
+      "name": "FieldLogic Services",
+      "industry": "Logistics & Supply Chain",
+      "size": "1001-5000 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Zara Peterson",
-    "company": "CloudWare",
-    "message": "Seeking long-term full-stack developer.",
-    "source": "LinkedIn DM",
-    "role": "Founder",
-    "engagement_score": 73
+    "lead_id": "LNC00103",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAD03",
+      "post_date": "2025-11-20",
+      "post_snippet": "We are looking to implement a **predictive modeling** system using **Machine Learning** to optimize our inventory purchasing. Seeking partners for a proof-of-concept (PoC).",
+      "project_type": [
+        "AI/ML System",
+        "Data Modeling"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "David",
+      "last_name": "Ross",
+      "job_title": "Head of Data Science",
+      "location": "Boston, MA",
+      "email": "david.ross@retailx.com"
+    },
+    "company_profile": {
+      "name": "RetailX Analytics",
+      "industry": "E-commerce & Retail",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($10M raised)"
+    }
   },
   {
-    "name": "Noah Lin",
-    "company": "NovaTech",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn Comment",
-    "role": "Tech Lead",
-    "engagement_score": 69
+    "lead_id": "LNC00104",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAE04",
+      "post_date": "2025-12-02",
+      "post_snippet": "Time to replace our outdated marketing website. We need a modern, scalable **SaaS landing page** built on a fast framework. Send portfolios.",
+      "project_type": [
+        "SaaS Web Development",
+        "Front-end Build"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Jessica",
+      "last_name": "Lee",
+      "job_title": "Marketing Director",
+      "location": "London, UK",
+      "email": "jessica.lee@saascore.co"
+    },
+    "company_profile": {
+      "name": "SaaS Core Systems",
+      "industry": "Software/IT",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
   },
   {
-    "name": "Emma Peterson",
-    "company": "BlueOcean Retail",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Comment",
-    "role": "Tech Lead",
-    "engagement_score": 66
+    "lead_id": "LNC00105",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAF05",
+      "post_date": "2025-11-15",
+      "post_snippet": "I agree. We're currently seeking bids for a partner to integrate our proprietary data with **Azure AI services** to automate reporting. Complex project.",
+      "project_type": [
+        "Cloud Integration",
+        "AI/ML System"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Omar",
+      "last_name": "Hussain",
+      "job_title": "VP of Engineering",
+      "location": "Dubai, UAE",
+      "email": "omar.hussain@energypro.ae"
+    },
+    "company_profile": {
+      "name": "EnergyPro Solutions",
+      "industry": "Energy & Utilities",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Emma Ali",
-    "company": "UrbanTech",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn DM",
-    "role": "Project Manager",
-    "engagement_score": 64
+    "lead_id": "LNC00106",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAG06",
+      "post_date": "2025-12-03",
+      "post_snippet": "Launching an MVP for our **Healthcare platform**. Need full-stack team for HIPAA-compliant web and mobile applications.",
+      "project_type": [
+        "Web App",
+        "Mobile App Development",
+        "HIPAA Compliance"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Alice",
+      "last_name": "Jones",
+      "job_title": "CEO & Founder",
+      "location": "New York, NY",
+      "email": "alice.jones@healthlink.co"
+    },
+    "company_profile": {
+      "name": "HealthLink Tech",
+      "industry": "Healthcare & Wellness",
+      "size": "1-10 Employees",
+      "funding_status": "Seed"
+    }
   },
   {
-    "name": "Liam Peterson",
-    "company": "DataFlow Inc",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Comment",
-    "role": "Founder",
-    "engagement_score": 56
+    "lead_id": "LNC00107",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAH07",
+      "post_date": "2025-11-25",
+      "post_snippet": "Our existing customer support tool is outdated. Seeking recommendations for building a **custom internal tool** with integration capabilities.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Brian",
+      "last_name": "Smith",
+      "job_title": "Director of Customer Success",
+      "location": "Chicago, IL",
+      "email": "brian.smith@gofastlogistics.com"
+    },
+    "company_profile": {
+      "name": "GoFast Logistics",
+      "industry": "Logistics & Supply Chain",
+      "size": "501-1000 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Chris Williams",
-    "company": "GreenLeaf Corp",
-    "message": "Seeking long-term full-stack developer.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 85
+    "lead_id": "LNC00108",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAI08",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need a team for a **POC (Proof of Concept) for generative AI** to summarize large legal documents. Looking for firms with NLP expertise.",
+      "project_type": [
+        "AI/ML System",
+        "Generative AI",
+        "NLP"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Catherine",
+      "last_name": "Miller",
+      "job_title": "Head of Legal Tech",
+      "location": "Washington, D.C.",
+      "email": "catherine.miller@lexcorp.law"
+    },
+    "company_profile": {
+      "name": "LexCorp Legal",
+      "industry": "Law Practice",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "John Williams",
-    "company": "DataFlow Inc",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn DM",
-    "role": "Founder",
-    "engagement_score": 95
+    "lead_id": "LNC00109",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAJ09",
+      "post_date": "2025-11-18",
+      "post_snippet": "Looking for partners to develop a **cross-platform mobile app** for student engagement for our university. Needs push notifications and grade integration.",
+      "project_type": [
+        "Mobile App Development",
+        "EdTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Daniel",
+      "last_name": "Garcia",
+      "job_title": "Director of Innovation",
+      "location": "Austin, TX",
+      "email": "daniel.garcia@austinuniv.edu"
+    },
+    "company_profile": {
+      "name": "Austin University",
+      "industry": "Higher Education",
+      "size": "5000+ Employees",
+      "funding_status": "Non-profit"
+    }
   },
   {
-    "name": "Jacob Shah",
-    "company": "GreenLeaf Corp",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn Post",
-    "role": "Product Manager",
-    "engagement_score": 88
+    "lead_id": "LNC00110",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAK10",
+      "post_date": "2025-12-01",
+      "post_snippet": "Our existing public website is slow and not mobile-responsive. Need a firm specializing in modernizing **high-traffic web infrastructure**.",
+      "project_type": [
+        "Web Development",
+        "Performance Optimization"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Eva",
+      "last_name": "Hernandez",
+      "job_title": "VP of Digital Strategy",
+      "location": "Miami, FL",
+      "email": "eva.hernandez@travelco.com"
+    },
+    "company_profile": {
+      "name": "Global Travel Co.",
+      "industry": "Travel & Tourism",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Fatima Rodriguez",
-    "company": "BlueOcean Retail",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 58
+    "lead_id": "LNC00111",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAL11",
+      "post_date": "2025-11-27",
+      "post_snippet": "We're launching a new division and need a dedicated **customer dashboard portal** for B2B clients. Focus on security and user roles.",
+      "project_type": [
+        "Custom Web App",
+        "B2B Portal"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Fiona",
+      "last_name": "Chang",
+      "job_title": "Chief Product Officer",
+      "location": "Seattle, WA",
+      "email": "fiona.chang@manufacturingpro.net"
+    },
+    "company_profile": {
+      "name": "Manufacturing Pro",
+      "industry": "Manufacturing",
+      "size": "501-1000 Employees",
+      "funding_status": "Series C ($120M raised)"
+    }
   },
   {
-    "name": "Zara Johnson",
-    "company": "UrbanTech",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 58
+    "lead_id": "LNC00112",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAM12",
+      "post_date": "2025-12-03",
+      "post_snippet": "Seeking a developer to build an **internal tool for automated data reporting** from various marketing APIs. Python or Go background preferred.",
+      "project_type": [
+        "Internal Tool Development",
+        "API Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "George",
+      "last_name": "Patel",
+      "job_title": "Head of Growth Marketing",
+      "location": "Dublin, Ireland",
+      "email": "george.patel@globaltech.com"
+    },
+    "company_profile": {
+      "name": "GlobalTech Solutions",
+      "industry": "Software/IT",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Hassan Peterson",
-    "company": "FlexLogistics",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn DM",
-    "role": "Tech Lead",
-    "engagement_score": 68
+    "lead_id": "LNC00113",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAN13",
+      "post_date": "2025-11-29",
+      "post_snippet": "We are evaluating vendors for a new **face recognition-based attendance system**. Requires a mobile app and cloud backend.",
+      "project_type": [
+        "Mobile App Development",
+        "Computer Vision",
+        "AI/ML System"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Helen",
+      "last_name": "Vance",
+      "job_title": "VP of HR Technology",
+      "location": "Sydney, Australia",
+      "email": "helen.vance@hrsolutions.au"
+    },
+    "company_profile": {
+      "name": "HR Solutions Group",
+      "industry": "Human Resources",
+      "size": "501-1000 Employees",
+      "funding_status": "Series B ($60M raised)"
+    }
   },
   {
-    "name": "Olivia Ahmed",
-    "company": "BlueOcean Retail",
-    "message": "Seeking long-term full-stack developer.",
-    "source": "LinkedIn DM",
-    "role": "Founder",
-    "engagement_score": 72
+    "lead_id": "LNC00114",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAO14",
+      "post_date": "2025-12-01",
+      "post_snippet": "Need a team to architect and build a **decentralized platform (dApp)** for asset tokenization. Experience with smart contracts is essential.",
+      "project_type": [
+        "Blockchain Development",
+        "Web App",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Isaac",
+      "last_name": "Zhou",
+      "job_title": "Chief Innovation Officer",
+      "location": "Zurich, Switzerland",
+      "email": "isaac.zhou@assetstream.ch"
+    },
+    "company_profile": {
+      "name": "AssetStream DAO",
+      "industry": "FinTech",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
   },
   {
-    "name": "Ayesha Rodriguez",
-    "company": "BlueOcean Retail",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Comment",
-    "role": "Project Manager",
-    "engagement_score": 96
+    "lead_id": "LNC00115",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAP15",
+      "post_date": "2025-11-26",
+      "post_snippet": "Seeking proposals for a **custom e-commerce marketplace** that supports B2C and B2B orders. Complex inventory management needed.",
+      "project_type": [
+        "E-commerce Platform",
+        "Web App"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Julia",
+      "last_name": "Katz",
+      "job_title": "VP of Product Management",
+      "location": "Tel Aviv, Israel",
+      "email": "julia.katz@globalmarketplace.com"
+    },
+    "company_profile": {
+      "name": "Global Marketplace Inc.",
+      "industry": "E-commerce & Retail",
+      "size": "201-500 Employees",
+      "funding_status": "Series C ($100M raised)"
+    }
   },
   {
-    "name": "Amelia Brown",
-    "company": "NovaTech",
-    "message": "Looking for dedicated developer for SaaS product.",
-    "source": "LinkedIn Post",
-    "role": "Founder",
-    "engagement_score": 41
+    "lead_id": "LNC00116",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAQ16",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need to build a **data visualization dashboard** that pulls from our ERP system. Looking for fast turnaround on a pilot project.",
+      "project_type": [
+        "Web App",
+        "Data Visualization"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Kevin",
+      "last_name": "Liu",
+      "job_title": "CFO (Chief Financial Officer)",
+      "location": "Shanghai, China",
+      "email": "kevin.liu@manufacturingchina.cn"
+    },
+    "company_profile": {
+      "name": "China Manufacturing Corp.",
+      "industry": "Manufacturing",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Ahmed Peterson",
-    "company": "FlexLogistics",
-    "message": "Require a Flutter developer for MVP app.",
-    "source": "LinkedIn DM",
-    "role": "Tech Lead",
-    "engagement_score": 82
+    "lead_id": "LNC00117",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAR17",
+      "post_date": "2025-11-30",
+      "post_snippet": "Our sales team is drowning in manual work. Seeking solutions for a **sales automation tool** integrated with Salesforce. Needs to be a web application.",
+      "project_type": [
+        "Custom Web App",
+        "CRM Integration",
+        "SalesTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Laura",
+      "last_name": "Dixon",
+      "job_title": "VP of Sales Strategy",
+      "location": "Denver, CO",
+      "email": "laura.dixon@smartersales.net"
+    },
+    "company_profile": {
+      "name": "Smarter Sales Inc.",
+      "industry": "Software/IT",
+      "size": "201-500 Employees",
+      "funding_status": "Series B ($75M raised)"
+    }
   },
   {
-    "name": "Ahmed Peterson",
-    "company": "CloudWare",
-    "message": "Seeking long-term full-stack developer.",
-    "source": "LinkedIn Post",
-    "role": "Project Manager",
-    "engagement_score": 87
+    "lead_id": "LNC00118",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAS18",
+      "post_date": "2025-11-23",
+      "post_snippet": "Building a **real-time risk assessment model** for our trading desk. Looking for expertise in low-latency systems and **advanced AI algorithms**.",
+      "project_type": [
+        "AI/ML System",
+        "Low Latency",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Michael",
+      "last_name": "Gomez",
+      "job_title": "Head of Quant Research",
+      "location": "London, UK",
+      "email": "michael.gomez@hftpartners.com"
+    },
+    "company_profile": {
+      "name": "HFT Partners",
+      "industry": "Investment Banking",
+      "size": "51-200 Employees",
+      "funding_status": "Private Equity"
+    }
   },
   {
-    "name": "Jacob Shah",
-    "company": "CloudWare",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn Comment",
-    "role": "Founder",
-    "engagement_score": 57
+    "lead_id": "LNC00119",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAT19",
+      "post_date": "2025-12-03",
+      "post_snippet": "Looking for agencies that can develop a **gamified mobile app** for employee training. Needs integration with our existing LMS.",
+      "project_type": [
+        "Mobile App Development",
+        "Gamification",
+        "HR Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Nancy",
+      "last_name": "Peterson",
+      "job_title": "Chief Learning Officer",
+      "location": "Atlanta, GA",
+      "email": "nancy.peterson@learnwell.net"
+    },
+    "company_profile": {
+      "name": "LearnWell Training",
+      "industry": "E-Learning",
+      "size": "201-500 Employees",
+      "funding_status": "Series A ($25M raised)"
+    }
   },
   {
-    "name": "Chris Johnson",
-    "company": "GreenLeaf Corp",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Comment",
-    "role": "Project Manager",
-    "engagement_score": 63
+    "lead_id": "LNC00120",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAU20",
+      "post_date": "2025-11-29",
+      "post_snippet": "We have an urgent need for a team to build an **internal project management dashboard** to track resource allocation across departments.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Owen",
+      "last_name": "Reed",
+      "job_title": "VP of Strategy",
+      "location": "Amsterdam, Netherlands",
+      "email": "owen.reed@eucorp.eu"
+    },
+    "company_profile": {
+      "name": "EuroCorp Holdings",
+      "industry": "Consulting",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Chris Peterson",
-    "company": "UrbanTech",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Post",
-    "role": "Product Manager",
-    "engagement_score": 43
+    "lead_id": "LNC00121",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAV21",
+      "post_date": "2025-12-01",
+      "post_snippet": "Seeking a vendor to build a **B2B customer portal** for managing subscriptions and support tickets. Needs to integrate with Stripe.",
+      "project_type": [
+        "Custom Web App",
+        "Payment Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Priya",
+      "last_name": "Sharma",
+      "job_title": "Product Owner",
+      "location": "Mumbai, India",
+      "email": "priya.sharma@subscriptionpro.in"
+    },
+    "company_profile": {
+      "name": "Subscription Pro",
+      "industry": "SaaS (Subscription Service)",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($15M raised)"
+    }
   },
   {
-    "name": "Emma Khan",
-    "company": "BlueOcean Retail",
-    "message": "Looking for dedicated developer for SaaS product.",
-    "source": "LinkedIn DM",
-    "role": "Product Manager",
-    "engagement_score": 50
+    "lead_id": "LNC00122",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAW22",
+      "post_date": "2025-11-24",
+      "post_snippet": "Our existing computer vision models for quality control need upgrading. We are looking for **AI/ML experts** to improve object detection accuracy.",
+      "project_type": [
+        "AI/ML System",
+        "Computer Vision",
+        "Deep Learning"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Quinn",
+      "last_name": "Taylor",
+      "job_title": "Head of R&D",
+      "location": "Shenzhen, China",
+      "email": "quinn.taylor@autofactory.cn"
+    },
+    "company_profile": {
+      "name": "AutoFactory Corp.",
+      "industry": "Automotive Manufacturing",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Hassan Brown",
-    "company": "UrbanTech",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 45
+    "lead_id": "LNC00123",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAX23",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need an external team to build a **customer-facing mobile app** for managing home maintenance schedules and payments. Flutter experience is a plus.",
+      "project_type": [
+        "Mobile App Development",
+        "Customer Service Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Ryan",
+      "last_name": "Upton",
+      "job_title": "VP of Product Development",
+      "location": "Toronto, Canada",
+      "email": "ryan.upton@homecarepro.ca"
+    },
+    "company_profile": {
+      "name": "HomeCare Pro",
+      "industry": "Property Management",
+      "size": "201-500 Employees",
+      "funding_status": "Series A ($40M raised)"
+    }
   },
   {
-    "name": "Hassan Ali",
-    "company": "BlueOcean Retail",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Comment",
-    "role": "Product Manager",
-    "engagement_score": 94
+    "lead_id": "LNC00124",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/AAY24",
+      "post_date": "2025-11-28",
+      "post_snippet": "Our team is launching a new investment product and requires a secure **web platform for client onboarding** and compliance checks.",
+      "project_type": [
+        "Custom Web App",
+        "FinTech",
+        "Compliance Software"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Sophia",
+      "last_name": "Vargas",
+      "job_title": "Chief Compliance Officer",
+      "location": "New York, NY",
+      "email": "sophia.vargas@secureinvest.com"
+    },
+    "company_profile": {
+      "name": "Secure Invest Group",
+      "industry": "Investment Banking",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Michael Stewart",
-    "company": "FitTrack Health",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn Comment",
-    "role": "Product Manager",
-    "engagement_score": 49
+    "lead_id": "LNC00125",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/AAZ25",
+      "post_date": "2025-12-02",
+      "post_snippet": "Seeking a vendor to build an **internal dashboard** to monitor real-time energy grid data. Must handle large volumes of sensor data.",
+      "project_type": [
+        "Internal Tool Development",
+        "Data Visualization",
+        "IoT"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Tom",
+      "last_name": "Wright",
+      "job_title": "VP of Grid Operations",
+      "location": "Houston, TX",
+      "email": "tom.wright@powergridco.com"
+    },
+    "company_profile": {
+      "name": "PowerGrid Co.",
+      "industry": "Energy & Utilities",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Omar Brown",
-    "company": "BlueOcean Retail",
-    "message": "Require a Flutter developer for MVP app.",
-    "source": "LinkedIn DM",
-    "role": "Tech Lead",
-    "engagement_score": 97
+    "lead_id": "LNC00126",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABA26",
+      "post_date": "2025-11-20",
+      "post_snippet": "Our current expense reporting system is manual and slow. Looking to build a **custom mobile app** to automate receipt scanning and submission via **AI/OCR**.",
+      "project_type": [
+        "Mobile App Development",
+        "AI/OCR",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Uma",
+      "last_name": "Xavier",
+      "job_title": "CFO",
+      "location": "Singapore",
+      "email": "uma.xavier@corpfinance.sg"
+    },
+    "company_profile": {
+      "name": "CorpFinance Asia",
+      "industry": "Accounting & Finance",
+      "size": "51-200 Employees",
+      "funding_status": "Series B ($35M raised)"
+    }
   },
   {
-    "name": "John Lin",
-    "company": "FlexLogistics",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn DM",
-    "role": "Product Manager",
-    "engagement_score": 93
+    "lead_id": "LNC00127",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABB27",
+      "post_date": "2025-12-01",
+      "post_snippet": "We need a partner to launch our new **digital training platform**. Requires a secure web portal for students and an admin back-end.",
+      "project_type": [
+        "Web App",
+        "EdTech",
+        "SaaS Platform"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Victor",
+      "last_name": "Young",
+      "job_title": "Chief Academic Officer",
+      "location": "Toronto, Canada",
+      "email": "victor.young@digitalskills.ca"
+    },
+    "company_profile": {
+      "name": "Digital Skills Academy",
+      "industry": "E-Learning",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
   },
   {
-    "name": "Sophia Stewart",
-    "company": "NovaTech",
-    "message": "Looking for dedicated developer for SaaS product.",
-    "source": "LinkedIn DM",
-    "role": "Project Manager",
-    "engagement_score": 52
+    "lead_id": "LNC00128",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABC28",
+      "post_date": "2025-11-27",
+      "post_snippet": "Looking for a specialized agency to implement a **fraud detection AI model** for credit card transactions. Requires expertise in anomaly detection.",
+      "project_type": [
+        "AI/ML System",
+        "Fraud Detection",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Wendy",
+      "last_name": "Zhao",
+      "job_title": "Head of Risk Management",
+      "location": "Hong Kong",
+      "email": "wendy.zhao@hkbank.com"
+    },
+    "company_profile": {
+      "name": "Hong Kong Secure Bank",
+      "industry": "Banking",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "John Hussain",
-    "company": "FlexLogistics",
-    "message": "Looking for a mobile app for our restaurant chain.",
-    "source": "LinkedIn Post",
-    "role": "Product Manager",
-    "engagement_score": 98
+    "lead_id": "LNC00129",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABD29",
+      "post_date": "2025-11-21",
+      "post_snippet": "Need help building the **backend infrastructure** for our new IoT data ingestion pipeline. Must be scalable and highly available.",
+      "project_type": [
+        "Backend Development",
+        "IoT",
+        "Cloud Infrastructure"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Xavier",
+      "last_name": "Adams",
+      "job_title": "Chief Technology Officer",
+      "location": "San Jose, CA",
+      "email": "xavier.adams@iotconnect.com"
+    },
+    "company_profile": {
+      "name": "IoT Connect Solutions",
+      "industry": "Information Technology",
+      "size": "51-200 Employees",
+      "funding_status": "Series C ($90M raised)"
+    }
   },
   {
-    "name": "Jacob Stewart",
-    "company": "NovaTech",
-    "message": "Looking for dedicated developer for SaaS product.",
-    "source": "LinkedIn Post",
-    "role": "Product Manager",
-    "engagement_score": 94
+    "lead_id": "LNC00130",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABE30",
+      "post_date": "2025-12-03",
+      "post_snippet": "Seeking a developer to build a **mobile app (iOS native)** for augmented reality tours of our properties. Needs 3D rendering experience.",
+      "project_type": [
+        "Mobile App Development",
+        "Augmented Reality (AR)"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Yara",
+      "last_name": "Brown",
+      "job_title": "VP of Digital Innovation",
+      "location": "Paris, France",
+      "email": "yara.brown@luxuryhomes.fr"
+    },
+    "company_profile": {
+      "name": "Luxury Homes France",
+      "industry": "Real Estate",
+      "size": "201-500 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Liam Stewart",
-    "company": "FlexLogistics",
-    "message": "Looking for a mobile app for our restaurant chain.",
-    "source": "LinkedIn DM",
-    "role": "Product Manager",
-    "engagement_score": 75
+    "lead_id": "LNC00131",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABF31",
+      "post_date": "2025-11-19",
+      "post_snippet": "We need to integrate **AI-powered sentiment analysis** into our existing customer review platform. Requires robust API development.",
+      "project_type": [
+        "AI/ML System",
+        "Sentiment Analysis",
+        "API Development"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Zane",
+      "last_name": "Clark",
+      "job_title": "Product Manager (Analytics)",
+      "location": "New York, NY",
+      "email": "zane.clark@reviewtrack.com"
+    },
+    "company_profile": {
+      "name": "ReviewTrack Solutions",
+      "industry": "SaaS (B2B)",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($18M raised)"
+    }
   },
   {
-    "name": "Olivia Peterson",
-    "company": "FitTrack Health",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 96
+    "lead_id": "LNC00132",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABG32",
+      "post_date": "2025-12-01",
+      "post_snippet": "Seeking a vendor to build an **internal web tool** for our factory floor to track machine maintenance and downtime. Needs real-time updates.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App",
+        "Manufacturing Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Adrian",
+      "last_name": "Davis",
+      "job_title": "VP of Operations Technology",
+      "location": "Detroit, MI",
+      "email": "adrian.davis@automanufacture.com"
+    },
+    "company_profile": {
+      "name": "Auto Manufacture Inc.",
+      "industry": "Automotive Manufacturing",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Chris Ali",
-    "company": "BlueOcean Retail",
-    "message": "Seeking long-term full-stack developer.",
-    "source": "LinkedIn DM",
-    "role": "Founder",
-    "engagement_score": 96
+    "lead_id": "LNC00133",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABH33",
+      "post_date": "2025-11-26",
+      "post_snippet": "We need a partner to develop a **secure payment gateway integration** into our existing e-commerce web platform. PCI compliance required.",
+      "project_type": [
+        "Web Development",
+        "Payment Integration",
+        "Security Compliance"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Brooke",
+      "last_name": "Evans",
+      "job_title": "Head of E-commerce",
+      "location": "Sydney, Australia",
+      "email": "brooke.evans@outbackgear.au"
+    },
+    "company_profile": {
+      "name": "Outback Gear Co.",
+      "industry": "E-commerce & Retail",
+      "size": "51-200 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Amelia Taylor",
-    "company": "BlueOcean Retail",
-    "message": "Require a Flutter developer for MVP app.",
-    "source": "LinkedIn DM",
-    "role": "CTO",
-    "engagement_score": 79
+    "lead_id": "LNC00134",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABI34",
+      "post_date": "2025-12-03",
+      "post_snippet": "Launching a new EdTech product. Need a full-stack team to build the **interactive student learning environment** (web platform).",
+      "project_type": [
+        "Web App",
+        "EdTech",
+        "SaaS Platform"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Caleb",
+      "last_name": "Fisher",
+      "job_title": "CEO & Founder",
+      "location": "Boston, MA",
+      "email": "caleb.fisher@learnfast.com"
+    },
+    "company_profile": {
+      "name": "LearnFast Education",
+      "industry": "E-Learning",
+      "size": "1-10 Employees",
+      "funding_status": "Seed"
+    }
   },
   {
-    "name": "Michael Johnson",
-    "company": "FitTrack Health",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Comment",
-    "role": "CTO",
-    "engagement_score": 100
+    "lead_id": "LNC00135",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABJ35",
+      "post_date": "2025-11-22",
+      "post_snippet": "Our current recommendation engine is failing. Seeking **AI experts** to rebuild a **collaborative filtering model** to improve user personalization.",
+      "project_type": [
+        "AI/ML System",
+        "Recommendation Engine",
+        "Data Science"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Diana",
+      "last_name": "Grant",
+      "job_title": "Head of Product Innovation",
+      "location": "San Francisco, CA",
+      "email": "diana.grant@mediawave.com"
+    },
+    "company_profile": {
+      "name": "MediaWave Streaming",
+      "industry": "Media & Entertainment",
+      "size": "501-1000 Employees",
+      "funding_status": "Series D ($200M raised)"
+    }
   },
   {
-    "name": "Zara Peterson",
-    "company": "CloudWare",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn Post",
-    "role": "Tech Lead",
-    "engagement_score": 87
+    "lead_id": "LNC00136",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABK36",
+      "post_date": "2025-12-02",
+      "post_snippet": "We need an external partner to develop a **native iOS mobile application** for our clients to track their insurance claims status.",
+      "project_type": [
+        "Mobile App Development",
+        "FinTech",
+        "Insurance Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Ethan",
+      "last_name": "Hart",
+      "job_title": "VP of Digital Transformation",
+      "location": "Zurich, Switzerland",
+      "email": "ethan.hart@swissinsurance.ch"
+    },
+    "company_profile": {
+      "name": "Swiss Secure Insurance",
+      "industry": "Insurance",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Omar Stewart",
-    "company": "CloudWare",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Post",
-    "role": "Product Manager",
-    "engagement_score": 83
+    "lead_id": "LNC00137",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABL37",
+      "post_date": "2025-11-28",
+      "post_snippet": "Looking for a specialized firm to build a **geo-fencing and route-optimization system** for our delivery drivers. Needs a mobile interface.",
+      "project_type": [
+        "Mobile App Development",
+        "Logistics Tech",
+        "Geospatial"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Grace",
+      "last_name": "Ito",
+      "job_title": "Chief Operating Officer",
+      "location": "Tokyo, Japan",
+      "email": "grace.ito@fastdeliver.jp"
+    },
+    "company_profile": {
+      "name": "Fast Deliver Japan",
+      "industry": "Logistics & Supply Chain",
+      "size": "1001-5000 Employees",
+      "funding_status": "Series B ($80M raised)"
+    }
   },
   {
-    "name": "Ayesha Ali",
-    "company": "CloudWare",
-    "message": "Looking for dedicated developer for SaaS product.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 84
+    "lead_id": "LNC00138",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABM38",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need a team to build an **internal reporting web application** that integrates data from our legacy SAP system. Python/Django preferred.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App",
+        "Legacy Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Henry",
+      "last_name": "Jang",
+      "job_title": "VP of Technology Strategy",
+      "location": "Seoul, South Korea",
+      "email": "henry.jang@koreamanuf.co.kr"
+    },
+    "company_profile": {
+      "name": "Korea Manufacture Tech",
+      "industry": "Manufacturing",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Sophia Hussain",
-    "company": "UrbanTech",
-    "message": "Want to rebuild our website using Next.js.",
-    "source": "LinkedIn Post",
-    "role": "Project Manager",
-    "engagement_score": 51
+    "lead_id": "LNC00139",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABN39",
+      "post_date": "2025-11-25",
+      "post_snippet": "Looking for agencies that specialize in building **high-security biometric authentication systems** for B2B applications.",
+      "project_type": [
+        "Security Software",
+        "Web App",
+        "Biometrics"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Iris",
+      "last_name": "Klein",
+      "job_title": "Chief Information Security Officer",
+      "location": "Frankfurt, Germany",
+      "email": "iris.klein@securedata.de"
+    },
+    "company_profile": {
+      "name": "Secure Data Solutions",
+      "industry": "Cybersecurity",
+      "size": "201-500 Employees",
+      "funding_status": "Private Equity"
+    }
   },
   {
-    "name": "Zara Ahmed",
-    "company": "BlueOcean Retail",
-    "message": "Require a Flutter developer for MVP app.",
-    "source": "LinkedIn Comment",
-    "role": "Product Manager",
-    "engagement_score": 69
+    "lead_id": "LNC00140",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABO40",
+      "post_date": "2025-12-01",
+      "post_snippet": "Our marketing efforts need an overhaul. We need a partner to build a **data-driven optimization dashboard** using Tableau and Python backend.",
+      "project_type": [
+        "Data Visualization",
+        "Web App",
+        "Marketing Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "James",
+      "last_name": "Lopez",
+      "job_title": "Head of Analytics",
+      "location": "New York, NY",
+      "email": "james.lopez@digitalgrowth.com"
+    },
+    "company_profile": {
+      "name": "Digital Growth Agency",
+      "industry": "Marketing & Advertising",
+      "size": "51-200 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Chris Ali",
-    "company": "UrbanTech",
-    "message": "Looking for dedicated developer for SaaS product.",
-    "source": "LinkedIn DM",
-    "role": "Product Manager",
-    "engagement_score": 46
+    "lead_id": "LNC00141",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABP41",
+      "post_date": "2025-11-20",
+      "post_snippet": "Need help launching a **telehealth mobile application** for remote patient monitoring. Requires compliance with healthcare regulations.",
+      "project_type": [
+        "Mobile App Development",
+        "Telehealth",
+        "HIPAA Compliance"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Karen",
+      "last_name": "Mendez",
+      "job_title": "VP of Innovation",
+      "location": "San Diego, CA",
+      "email": "karen.mendez@medicareplus.com"
+    },
+    "company_profile": {
+      "name": "Medicare Plus Systems",
+      "industry": "Healthcare & Wellness",
+      "size": "501-1000 Employees",
+      "funding_status": "Series C ($150M raised)"
+    }
   },
   {
-    "name": "Michael Peterson",
-    "company": "UrbanTech",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Comment",
-    "role": "CTO",
-    "engagement_score": 51
+    "lead_id": "LNC00142",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABQ42",
+      "post_date": "2025-12-03",
+      "post_snippet": "Seeking a developer to build the **backend and API layer** for our new FinTech mobile app. Must handle high transaction volume and security.",
+      "project_type": [
+        "Backend Development",
+        "API Development",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Liam",
+      "last_name": "Ngo",
+      "job_title": "CTO",
+      "location": "Singapore",
+      "email": "liam.ngo@fastpay.sg"
+    },
+    "company_profile": {
+      "name": "FastPay Solutions",
+      "industry": "FinTech",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
   },
   {
-    "name": "Fatima Khan",
-    "company": "CloudWare",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Comment",
-    "role": "CTO",
-    "engagement_score": 66
+    "lead_id": "LNC00143",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABR43",
+      "post_date": "2025-11-24",
+      "post_snippet": "We need to integrate **AI forecasting models** into our supply chain planning platform. Looking for partners with specialized experience in logistics ML.",
+      "project_type": [
+        "AI/ML System",
+        "Supply Chain Optimization",
+        "Data Modeling"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Mia",
+      "last_name": "Owens",
+      "job_title": "VP of Supply Chain",
+      "location": "Chicago, IL",
+      "email": "mia.owens@globalship.com"
+    },
+    "company_profile": {
+      "name": "Global Ship Inc.",
+      "industry": "Logistics & Supply Chain",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Liam Taylor",
-    "company": "NovaTech",
-    "message": "Need automation for our sales pipeline.",
-    "source": "LinkedIn Post",
-    "role": "Tech Lead",
-    "engagement_score": 85
+    "lead_id": "LNC00144",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABS44",
+      "post_date": "2025-12-01",
+      "post_snippet": "We urgently need to rebuild our **customer-facing web platform** to handle a 10x increase in user traffic expected next quarter. Scalability is key.",
+      "project_type": [
+        "Web App",
+        "Scalability Optimization",
+        "High Traffic System"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Noah",
+      "last_name": "Pham",
+      "job_title": "Chief Technology Officer",
+      "location": "San Jose, CA",
+      "email": "noah.pham@streamingtech.com"
+    },
+    "company_profile": {
+      "name": "Streaming Tech Solutions",
+      "industry": "Media & Entertainment",
+      "size": "201-500 Employees",
+      "funding_status": "Series B ($85M raised)"
+    }
   },
   {
-    "name": "Emma Rodriguez",
-    "company": "CloudWare",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Comment",
-    "role": "Tech Lead",
-    "engagement_score": 62
+    "lead_id": "LNC00145",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABT45",
+      "post_date": "2025-11-26",
+      "post_snippet": "Looking for partners to develop a **mobile application for property investors** with real-time market data feed integration.",
+      "project_type": [
+        "Mobile App Development",
+        "FinTech",
+        "Real Estate Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Olivia",
+      "last_name": "Quinn",
+      "job_title": "Head of Investment Products",
+      "location": "London, UK",
+      "email": "olivia.quinn@globalproperty.co.uk"
+    },
+    "company_profile": {
+      "name": "Global Property Investments",
+      "industry": "Real Estate",
+      "size": "501-1000 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Hassan Lin",
-    "company": "BlueOcean Retail",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn Comment",
-    "role": "Project Manager",
-    "engagement_score": 43
+    "lead_id": "LNC00146",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABU46",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need help building a **secure internal knowledge base** web application for our legal team. Focus on document search and indexing.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App",
+        "Search Optimization"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Paul",
+      "last_name": "Rivera",
+      "job_title": "Chief Legal Officer",
+      "location": "Miami, FL",
+      "email": "paul.rivera@legalsolutions.net"
+    },
+    "company_profile": {
+      "name": "Legal Solutions Firm",
+      "industry": "Law Practice",
+      "size": "51-200 Employees",
+      "funding_status": "Self-funded"
+    }
   },
   {
-    "name": "Ayesha Reed",
-    "company": "FlexLogistics",
-    "message": "Looking for a mobile app for our restaurant chain.",
-    "source": "LinkedIn Comment",
-    "role": "Founder",
-    "engagement_score": 71
+    "lead_id": "LNC00147",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABV47",
+      "post_date": "2025-11-29",
+      "post_snippet": "Our HR department is looking to build a **custom hiring automation web app** with integration to various job boards and screening tools.",
+      "project_type": [
+        "Custom Web App",
+        "HR Tech",
+        "Automation"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Quinn",
+      "last_name": "Scott",
+      "job_title": "VP of HR Systems",
+      "location": "Denver, CO",
+      "email": "quinn.scott@globalhr.com"
+    },
+    "company_profile": {
+      "name": "Global HR Partners",
+      "industry": "Human Resources",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Bilal Brown",
-    "company": "GreenLeaf Corp",
-    "message": "We need a React + Node dashboard for our logistics company.",
-    "source": "LinkedIn DM",
-    "role": "Tech Lead",
-    "engagement_score": 91
+    "lead_id": "LNC00148",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABW48",
+      "post_date": "2025-11-20",
+      "post_snippet": "Seeking expertise in developing a **virtual reality training simulation** for complex machinery operation. Needs a companion web portal.",
+      "project_type": [
+        "VR/AR Development",
+        "Web App",
+        "Manufacturing Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Robert",
+      "last_name": "Tan",
+      "job_title": "Head of Training & Development",
+      "location": "Munich, Germany",
+      "email": "robert.tan@machinerycorp.de"
+    },
+    "company_profile": {
+      "name": "Machinery Corp EU",
+      "industry": "Manufacturing",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   },
   {
-    "name": "Zara Shah",
-    "company": "FitTrack Health",
-    "message": "Need an AI chatbot for customer support.",
-    "source": "LinkedIn Post",
-    "role": "Tech Lead",
-    "engagement_score": 85
+    "lead_id": "LNC00149",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABX49",
+      "post_date": "2025-12-02",
+      "post_snippet": "We need a strong partner to help us build a **blockchain-based supply chain tracker** for product provenance. Smart contract development needed.",
+      "project_type": [
+        "Blockchain Development",
+        "Supply Chain Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Stella",
+      "last_name": "Umoh",
+      "job_title": "Chief Innovation Officer",
+      "location": "Lagos, Nigeria",
+      "email": "stella.umoh@africachain.ng"
+    },
+    "company_profile": {
+      "name": "AfricaChain Logistics",
+      "industry": "Logistics & Supply Chain",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($12M raised)"
+    }
   },
   {
-    "name": "Bilal Reed",
-    "company": "UrbanTech",
-    "message": "Require a Flutter developer for MVP app.",
-    "source": "LinkedIn Post",
-    "role": "CTO",
-    "engagement_score": 97
+    "lead_id": "LNC00150",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ABY50",
+      "post_date": "2025-11-25",
+      "post_snippet": "Seeking proposals for a **custom e-commerce platform** specializing in high-end, personalized goods. Needs strong focus on UI/UX and performance.",
+      "project_type": [
+        "E-commerce Platform",
+        "Web App",
+        "UX/UI Focus"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Victor",
+      "last_name": "Wallace",
+      "job_title": "Head of Digital Products",
+      "location": "Paris, France",
+      "email": "victor.wallace@luxurydesign.fr"
+    },
+    "company_profile": {
+      "name": "Luxury Design Studio",
+      "industry": "Luxury Goods & Jewelry",
+      "size": "11-50 Employees",
+      "funding_status": "Self-funded"
+    }
+  },
+  {
+    "lead_id": "LNC00151",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ABZ51",
+      "post_date": "2025-12-03",
+      "post_snippet": "We're launching a new division and need a dedicated **customer dashboard portal** for B2B clients. Focus on security and user roles.",
+      "project_type": [
+        "Custom Web App",
+        "B2B Portal"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "William",
+      "last_name": "Yeo",
+      "job_title": "Chief Product Officer",
+      "location": "Singapore",
+      "email": "william.yeo@b2bconnect.sg"
+    },
+    "company_profile": {
+      "name": "B2B Connect Asia",
+      "industry": "Consulting",
+      "size": "501-1000 Employees",
+      "funding_status": "Series C ($120M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00152",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACA52",
+      "post_date": "2025-11-21",
+      "post_snippet": "We need a team to build an **internal tool for automated data reporting** from various marketing APIs. Python or Go background preferred.",
+      "project_type": [
+        "Internal Tool Development",
+        "API Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Zara",
+      "last_name": "Ali",
+      "job_title": "Head of Growth Marketing",
+      "location": "Dubai, UAE",
+      "email": "zara.ali@dubaimedia.ae"
+    },
+    "company_profile": {
+      "name": "Dubai Media Group",
+      "industry": "Marketing & Advertising",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00153",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACB53",
+      "post_date": "2025-11-29",
+      "post_snippet": "We are evaluating vendors for a new **biometric patient identification system**. Requires a mobile app and cloud backend, HIPAA compliant.",
+      "project_type": [
+        "Mobile App Development",
+        "Biometrics",
+        "Healthcare Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Ben",
+      "last_name": "Carter",
+      "job_title": "VP of Healthcare Innovation",
+      "location": "Boston, MA",
+      "email": "ben.carter@newmed.com"
+    },
+    "company_profile": {
+      "name": "NewMed Healthcare",
+      "industry": "Healthcare & Wellness",
+      "size": "501-1000 Employees",
+      "funding_status": "Series B ($60M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00154",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACC54",
+      "post_date": "2025-12-02",
+      "post_snippet": "Need a team to architect and build a **decentralized platform (dApp)** for fine art ownership and fractionalization. Experience with Ethereum is essential.",
+      "project_type": [
+        "Blockchain Development",
+        "Web App",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Chloe",
+      "last_name": "Dawson",
+      "job_title": "Chief Innovation Officer",
+      "location": "London, UK",
+      "email": "chloe.dawson@arttoken.uk"
+    },
+    "company_profile": {
+      "name": "Art Token Group",
+      "industry": "Arts & Culture",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
+  },
+  {
+    "lead_id": "LNC00155",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACD55",
+      "post_date": "2025-11-26",
+      "post_snippet": "Seeking proposals for a **custom grocery delivery platform** that includes complex logistics management and a customer mobile app.",
+      "project_type": [
+        "E-commerce Platform",
+        "Mobile App Development",
+        "Logistics Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Ethan",
+      "last_name": "Flores",
+      "job_title": "VP of Digital Commerce",
+      "location": "Mexico City, Mexico",
+      "email": "ethan.flores@freshgrocer.mx"
+    },
+    "company_profile": {
+      "name": "Fresh Grocer MX",
+      "industry": "Food & Beverages",
+      "size": "201-500 Employees",
+      "funding_status": "Series C ($100M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00156",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACE56",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need to build a **real-time risk scoring dashboard** for our investment managers. Needs API integration with various data providers.",
+      "project_type": [
+        "Web App",
+        "Data Visualization",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Giselle",
+      "last_name": "Harris",
+      "job_title": "Head of Investment Strategy",
+      "location": "New York, NY",
+      "email": "giselle.harris@capitalsolutions.com"
+    },
+    "company_profile": {
+      "name": "Capital Solutions Group",
+      "industry": "Investment Banking",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00157",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACF57",
+      "post_date": "2025-11-30",
+      "post_snippet": "Our HR system is legacy. Seeking solutions for a **benefits enrollment web application** that integrates with our payroll provider.",
+      "project_type": [
+        "Custom Web App",
+        "HR Tech",
+        "API Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Henry",
+      "last_name": "Ito",
+      "job_title": "VP of Total Rewards",
+      "location": "Chicago, IL",
+      "email": "henry.ito@benefitsfirst.net"
+    },
+    "company_profile": {
+      "name": "Benefits First Corp.",
+      "industry": "Human Resources",
+      "size": "201-500 Employees",
+      "funding_status": "Series B ($75M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00158",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACG58",
+      "post_date": "2025-11-23",
+      "post_snippet": "Looking for experts to build an **AI-powered quality control system** using image recognition for our assembly line. Requires deep learning expertise.",
+      "project_type": [
+        "AI/ML System",
+        "Computer Vision",
+        "Manufacturing Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Jane",
+      "last_name": "Kim",
+      "job_title": "Head of Automation R&D",
+      "location": "Seoul, South Korea",
+      "email": "jane.kim@korearobotics.co.kr"
+    },
+    "company_profile": {
+      "name": "Korea Robotics Inc.",
+      "industry": "Industrial Automation",
+      "size": "51-200 Employees",
+      "funding_status": "Private Equity"
+    }
+  },
+  {
+    "lead_id": "LNC00159",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACH59",
+      "post_date": "2025-12-03",
+      "post_snippet": "Looking for agencies that can develop a **social networking mobile app** for hobbyists. Needs photo/video sharing and user profiles.",
+      "project_type": [
+        "Mobile App Development",
+        "Social Networking"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Kyle",
+      "last_name": "Levin",
+      "job_title": "Chief Product Officer",
+      "location": "Los Angeles, CA",
+      "email": "kyle.levin@hobbycircle.com"
+    },
+    "company_profile": {
+      "name": "Hobby Circle Inc.",
+      "industry": "Media & Entertainment",
+      "size": "201-500 Employees",
+      "funding_status": "Series A ($25M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00160",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACI60",
+      "post_date": "2025-11-29",
+      "post_snippet": "We have an urgent need for a team to build an **internal knowledge graph search engine** for our massive document archive. Needs advanced indexing.",
+      "project_type": [
+        "Internal Tool Development",
+        "Search Optimization",
+        "AI/ML System"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Maria",
+      "last_name": "Nunez",
+      "job_title": "VP of Research",
+      "location": "Amsterdam, Netherlands",
+      "email": "maria.nunez@researchcorp.eu"
+    },
+    "company_profile": {
+      "name": "Research Corp EU",
+      "industry": "Consulting",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00161",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACJ61",
+      "post_date": "2025-12-01",
+      "post_snippet": "Seeking a vendor to build a **SaaS platform** for managing construction projects. Needs complex scheduling, resource allocation, and a client-facing web app.",
+      "project_type": [
+        "Custom Web App",
+        "SaaS Platform",
+        "Construction Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Noah",
+      "last_name": "Ortiz",
+      "job_title": "CEO & Founder",
+      "location": "Mexico City, Mexico",
+      "email": "noah.ortiz@buildpro.mx"
+    },
+    "company_profile": {
+      "name": "BuildPro Software",
+      "industry": "Construction",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($15M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00162",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACK62",
+      "post_date": "2025-11-24",
+      "post_snippet": "We need help migrating our **legacy FinTech system** to a modern, scalable cloud infrastructure. Experience with AWS and security compliance is key.",
+      "project_type": [
+        "Backend Development",
+        "Cloud Migration",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Penny",
+      "last_name": "Quinn",
+      "job_title": "CTO",
+      "location": "Singapore",
+      "email": "penny.quinn@oldschoolbank.sg"
+    },
+    "company_profile": {
+      "name": "Old School Bank Asia",
+      "industry": "Banking",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00163",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACL63",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need an external team to build a **virtual try-on mobile app** for our clothing brand. Requires AR and strong 3D rendering skills.",
+      "project_type": [
+        "Mobile App Development",
+        "Augmented Reality (AR)",
+        "E-commerce"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Raj",
+      "last_name": "Rao",
+      "job_title": "VP of Digital Commerce",
+      "location": "London, UK",
+      "email": "raj.rao@fashioneu.co.uk"
+    },
+    "company_profile": {
+      "name": "Fashion EU Retail",
+      "industry": "Apparel & Fashion",
+      "size": "201-500 Employees",
+      "funding_status": "Series A ($40M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00164",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACM64",
+      "post_date": "2025-11-28",
+      "post_snippet": "Our existing analytics tool is not scalable. Looking for a partner to build a **custom data warehousing and visualization system** on Snowflake.",
+      "project_type": [
+        "Data Warehousing",
+        "Web App",
+        "Data Visualization"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Sam",
+      "last_name": "Schmidt",
+      "job_title": "Head of Data Analytics",
+      "location": "Sydney, Australia",
+      "email": "sam.schmidt@datainsights.au"
+    },
+    "company_profile": {
+      "name": "Data Insights Pro",
+      "industry": "Consulting",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00165",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACN65",
+      "post_date": "2025-12-02",
+      "post_snippet": "Seeking a vendor to build an **internal tool** for generating and managing custom legal contracts using a predefined template system.",
+      "project_type": [
+        "Internal Tool Development",
+        "Legal Tech",
+        "Automation"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Tina",
+      "last_name": "Tran",
+      "job_title": "Chief Legal Officer",
+      "location": "Houston, TX",
+      "email": "tina.tran@globalenergy.com"
+    },
+    "company_profile": {
+      "name": "Global Energy Corp",
+      "industry": "Energy & Utilities",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00166",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACO66",
+      "post_date": "2025-11-20",
+      "post_snippet": "Our team is launching a new investment product and requires a secure **web platform for client onboarding** and compliance checks.",
+      "project_type": [
+        "Custom Web App",
+        "FinTech",
+        "Compliance Software"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Umar",
+      "last_name": "Venkatesh",
+      "job_title": "Head of Wealth Management",
+      "location": "Mumbai, India",
+      "email": "umar.venkatesh@indiawealth.in"
+    },
+    "company_profile": {
+      "name": "India Wealth Advisors",
+      "industry": "Investment Banking",
+      "size": "51-200 Employees",
+      "funding_status": "Series B ($35M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00167",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACP67",
+      "post_date": "2025-12-01",
+      "post_snippet": "We need a partner to launch our new **professional certification platform**. Requires secure user authentication and payment processing.",
+      "project_type": [
+        "Web App",
+        "EdTech",
+        "Payment Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Vanessa",
+      "last_name": "White",
+      "job_title": "Chief Academic Officer",
+      "location": "Toronto, Canada",
+      "email": "vanessa.white@procert.ca"
+    },
+    "company_profile": {
+      "name": "ProCert Institute",
+      "industry": "E-Learning",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
+  },
+  {
+    "lead_id": "LNC00168",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACQ68",
+      "post_date": "2025-11-27",
+      "post_snippet": "Looking for a specialized agency to implement a **predictive maintenance AI model** for factory equipment. Requires expertise in IoT sensor data analysis.",
+      "project_type": [
+        "AI/ML System",
+        "IoT",
+        "Manufacturing Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Wayne",
+      "last_name": "Xiong",
+      "job_title": "VP of Operations Technology",
+      "location": "Shenzhen, China",
+      "email": "wayne.xiong@cnindustrial.cn"
+    },
+    "company_profile": {
+      "name": "China Industrial Tech",
+      "industry": "Industrial Automation",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00169",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACR69",
+      "post_date": "2025-11-21",
+      "post_snippet": "Need help building the **backend infrastructure** for our new global B2B payments platform. Must be extremely low latency and highly secure.",
+      "project_type": [
+        "Backend Development",
+        "FinTech",
+        "Low Latency"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Yasmine",
+      "last_name": "Youssef",
+      "job_title": "Chief Technology Officer",
+      "location": "Dubai, UAE",
+      "email": "yasmine.youssef@globalpay.ae"
+    },
+    "company_profile": {
+      "name": "GlobalPay Solutions",
+      "industry": "FinTech",
+      "size": "51-200 Employees",
+      "funding_status": "Series C ($90M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00170",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACS70",
+      "post_date": "2025-12-03",
+      "post_snippet": "Seeking a developer to build a **cross-platform mobile app** for tracking construction site progress and documentation. Needs offline capabilities.",
+      "project_type": [
+        "Mobile App Development",
+        "Construction Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Zac",
+      "last_name": "Zimmerman",
+      "job_title": "VP of Digital Innovation",
+      "location": "Dallas, TX",
+      "email": "zac.zimmerman@constructionsmart.com"
+    },
+    "company_profile": {
+      "name": "Construction Smart Solutions",
+      "industry": "Construction",
+      "size": "201-500 Employees",
+      "funding_status": "Series A ($40M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00171",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACT71",
+      "post_date": "2025-11-19",
+      "post_snippet": "We need to integrate **AI-powered voice recognition** for automated note-taking in surgical procedures. Extreme accuracy required.",
+      "project_type": [
+        "AI/ML System",
+        "Voice Recognition",
+        "Healthcare Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Andrea",
+      "last_name": "Baker",
+      "job_title": "Product Manager (Surgical Tech)",
+      "location": "Boston, MA",
+      "email": "andrea.baker@surgicare.com"
+    },
+    "company_profile": {
+      "name": "SurgiCare Solutions",
+      "industry": "Medical Devices",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($18M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00172",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACU72",
+      "post_date": "2025-12-01",
+      "post_snippet": "Seeking a vendor to build an **internal tool** for managing and deploying thousands of virtual machines across our global cloud environment.",
+      "project_type": [
+        "Internal Tool Development",
+        "Cloud Infrastructure",
+        "DevOps Automation"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Blake",
+      "last_name": "Choi",
+      "job_title": "VP of Cloud Operations",
+      "location": "Seattle, WA",
+      "email": "blake.choi@globalcloud.com"
+    },
+    "company_profile": {
+      "name": "Global Cloud Tech",
+      "industry": "Software/IT",
+      "size": "1001-5000 Employees",
+      "funding_status": "Series C ($120M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00173",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACV73",
+      "post_date": "2025-11-26",
+      "post_snippet": "We need a partner to develop a **secure data escrow service** web application for legal and financial transactions. Requires blockchain audit trails.",
+      "project_type": [
+        "Web App",
+        "Blockchain Development",
+        "Security Software"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Cara",
+      "last_name": "Dunn",
+      "job_title": "Chief Legal Officer",
+      "location": "London, UK",
+      "email": "cara.dunn@escrowsolutions.uk"
+    },
+    "company_profile": {
+      "name": "Escrow Solutions UK",
+      "industry": "Legal Services",
+      "size": "51-200 Employees",
+      "funding_status": "Self-funded"
+    }
+  },
+  {
+    "lead_id": "LNC00174",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACW74",
+      "post_date": "2025-12-03",
+      "post_snippet": "Launching a new EdTech product focused on vocational training. Need a team to build the **interactive assessment and certification platform**.",
+      "project_type": [
+        "Web App",
+        "EdTech",
+        "SaaS Platform"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Dylan",
+      "last_name": "Estrada",
+      "job_title": "CEO & Founder",
+      "location": "Austin, TX",
+      "email": "dylan.estrada@vocationalpro.com"
+    },
+    "company_profile": {
+      "name": "Vocational Pro",
+      "industry": "E-Learning",
+      "size": "1-10 Employees",
+      "funding_status": "Seed"
+    }
+  },
+  {
+    "lead_id": "LNC00175",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACX75",
+      "post_date": "2025-11-22",
+      "post_snippet": "Our anomaly detection system in our manufacturing process is failing. Seeking **AI experts** to rebuild models for real-time equipment fault prediction.",
+      "project_type": [
+        "AI/ML System",
+        "Predictive Maintenance",
+        "IoT"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Emily",
+      "last_name": "Feng",
+      "job_title": "Head of Engineering Innovation",
+      "location": "Tokyo, Japan",
+      "email": "emily.feng@autofactory.jp"
+    },
+    "company_profile": {
+      "name": "Auto Factory Japan",
+      "industry": "Automotive Manufacturing",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00176",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ACY76",
+      "post_date": "2025-12-02",
+      "post_snippet": "We need an external partner to develop a **native Android mobile application** for our clients to report environmental safety incidents.",
+      "project_type": [
+        "Mobile App Development",
+        "Safety Tech",
+        "Environmental Services"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Felix",
+      "last_name": "Gomez",
+      "job_title": "VP of Safety and Compliance",
+      "location": "Zurich, Switzerland",
+      "email": "felix.gomez@enviroguard.ch"
+    },
+    "company_profile": {
+      "name": "EnviroGuard Solutions",
+      "industry": "Environmental Services",
+      "size": "501-1000 Employees",
+      "funding_status": "Series B ($80M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00177",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ACZ77",
+      "post_date": "2025-11-28",
+      "post_snippet": "Looking for a specialized firm to build a **last-mile delivery optimization system** with real-time route changes based on traffic and weather.",
+      "project_type": [
+        "Logistics Tech",
+        "AI/ML System",
+        "Geospatial"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Grant",
+      "last_name": "Harris",
+      "job_title": "Chief Operating Officer",
+      "location": "New York, NY",
+      "email": "grant.harris@urbandelivery.com"
+    },
+    "company_profile": {
+      "name": "Urban Delivery Corp.",
+      "industry": "Logistics & Supply Chain",
+      "size": "1001-5000 Employees",
+      "funding_status": "Series B ($80M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00178",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADA78",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need a team to build a **data-driven marketing attribution web application** that integrates with Google Ads and social media APIs.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App",
+        "Marketing Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Hana",
+      "last_name": "Ibrahim",
+      "job_title": "VP of Marketing Analytics",
+      "location": "Dubai, UAE",
+      "email": "hana.ibrahim@dubaiadco.ae"
+    },
+    "company_profile": {
+      "name": "Dubai Ad Co.",
+      "industry": "Marketing & Advertising",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00179",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADB79",
+      "post_date": "2025-11-25",
+      "post_snippet": "Looking for agencies that specialize in building **secure document sharing portals** for legal clients. Needs end-to-end encryption.",
+      "project_type": [
+        "Security Software",
+        "Web App",
+        "Legal Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Ivan",
+      "last_name": "Jha",
+      "job_title": "Chief Information Security Officer",
+      "location": "Frankfurt, Germany",
+      "email": "ivan.jha@frankfurtlegal.de"
+    },
+    "company_profile": {
+      "name": "Frankfurt Legal Partners",
+      "industry": "Law Practice",
+      "size": "201-500 Employees",
+      "funding_status": "Private Equity"
+    }
+  },
+  {
+    "lead_id": "LNC00180",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADC80",
+      "post_date": "2025-12-01",
+      "post_snippet": "Our existing customer feedback platform is insufficient. We need a partner to build a **custom web application** to capture, analyze, and report user feedback.",
+      "project_type": [
+        "Custom Web App",
+        "Data Analytics",
+        "UX/UI Focus"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Jasmine",
+      "last_name": "Kaur",
+      "job_title": "Head of User Experience",
+      "location": "Mumbai, India",
+      "email": "jasmine.kaur@userinsights.in"
+    },
+    "company_profile": {
+      "name": "User Insights Group",
+      "industry": "Consulting",
+      "size": "51-200 Employees",
+      "funding_status": "Self-funded"
+    }
+  },
+  {
+    "lead_id": "LNC00181",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADD81",
+      "post_date": "2025-11-20",
+      "post_snippet": "Need help launching a **fitness tracking mobile application** for our corporate wellness program. Must integrate with smartwatches and health APIs.",
+      "project_type": [
+        "Mobile App Development",
+        "Health Tech",
+        "API Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Kenneth",
+      "last_name": "Lee",
+      "job_title": "VP of Corporate Wellness",
+      "location": "Toronto, Canada",
+      "email": "kenneth.lee@corpwell.ca"
+    },
+    "company_profile": {
+      "name": "Corporate Wellness Inc.",
+      "industry": "Health, Wellness and Fitness",
+      "size": "501-1000 Employees",
+      "funding_status": "Series C ($150M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00182",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADE82",
+      "post_date": "2025-12-03",
+      "post_snippet": "Seeking a vendor to build the **backend and API layer** for our new global commodity trading platform. Must handle high transaction volume and low latency.",
+      "project_type": [
+        "Backend Development",
+        "API Development",
+        "FinTech",
+        "Low Latency"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Lana",
+      "last_name": "Moss",
+      "job_title": "CTO",
+      "location": "Zurich, Switzerland",
+      "email": "lana.moss@globalcomtrade.ch"
+    },
+    "company_profile": {
+      "name": "Global Commodity Trade",
+      "industry": "Financial Services",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
+  },
+  {
+    "lead_id": "LNC00183",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADF83",
+      "post_date": "2025-11-24",
+      "post_snippet": "We need to integrate **AI-powered fraud scoring** into our payments platform. Looking for partners with specialized experience in transactional ML models.",
+      "project_type": [
+        "AI/ML System",
+        "Fraud Detection",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Marco",
+      "last_name": "Nelson",
+      "job_title": "VP of Risk Management",
+      "location": "New York, NY",
+      "email": "marco.nelson@securepayments.com"
+    },
+    "company_profile": {
+      "name": "Secure Payments Inc.",
+      "industry": "FinTech",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00184",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADG84",
+      "post_date": "2025-12-01",
+      "post_snippet": "We urgently need to rebuild our **customer-facing web platform** to handle a 10x increase in user traffic expected next quarter. Scalability is key.",
+      "project_type": [
+        "Web App",
+        "Scalability Optimization",
+        "High Traffic System"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Nina",
+      "last_name": "Perez",
+      "job_title": "Chief Technology Officer",
+      "location": "San Francisco, CA",
+      "email": "nina.perez@socialconnect.com"
+    },
+    "company_profile": {
+      "name": "Social Connect Platform",
+      "industry": "Media & Entertainment",
+      "size": "201-500 Employees",
+      "funding_status": "Series B ($85M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00185",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADH85",
+      "post_date": "2025-11-26",
+      "post_snippet": "Looking for partners to develop a **mobile application for insurance claims adjustment** with photo upload and case management capabilities.",
+      "project_type": [
+        "Mobile App Development",
+        "Insurance Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Omar",
+      "last_name": "Quinn",
+      "job_title": "Head of Claims Innovation",
+      "location": "London, UK",
+      "email": "omar.quinn@insurepro.co.uk"
+    },
+    "company_profile": {
+      "name": "InsurePro Group",
+      "industry": "Insurance",
+      "size": "501-1000 Employees",
+      "funding_status": "Self-funded"
+    }
+  },
+  {
+    "lead_id": "LNC00186",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADI86",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need help building a **secure internal portal** for managing employee stock options and vesting schedules. High security required.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Paola",
+      "last_name": "Reyes",
+      "job_title": "Chief Financial Officer",
+      "location": "Miami, FL",
+      "email": "paola.reyes@techstartup.com"
+    },
+    "company_profile": {
+      "name": "Tech Startup Co.",
+      "industry": "Software/IT",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($20M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00187",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADJ87",
+      "post_date": "2025-11-29",
+      "post_snippet": "Our team is looking to build a **custom performance review web app** with 360-degree feedback capabilities. Needs robust user roles and reporting.",
+      "project_type": [
+        "Custom Web App",
+        "HR Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Quincy",
+      "last_name": "Singh",
+      "job_title": "VP of Talent Management",
+      "location": "Denver, CO",
+      "email": "quincy.singh@talentfirst.com"
+    },
+    "company_profile": {
+      "name": "Talent First Group",
+      "industry": "Human Resources",
+      "size": "1001-5000 Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00188",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADK88",
+      "post_date": "2025-11-20",
+      "post_snippet": "Seeking expertise in developing a **virtual reality surgical training platform**. Needs companion web portal for performance tracking.",
+      "project_type": [
+        "VR/AR Development",
+        "Web App",
+        "Healthcare Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Rachel",
+      "last_name": "Tsai",
+      "job_title": "Head of Medical Simulation",
+      "location": "Boston, MA",
+      "email": "rachel.tsai@medsimulations.com"
+    },
+    "company_profile": {
+      "name": "Med Simulations Inc.",
+      "industry": "Medical Devices",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00189",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADL89",
+      "post_date": "2025-12-02",
+      "post_snippet": "We need a strong partner to help us build a **blockchain-based academic credential verification system**. Smart contract development needed.",
+      "project_type": [
+        "Blockchain Development",
+        "EdTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Samuel",
+      "last_name": "Ullah",
+      "job_title": "Chief Innovation Officer",
+      "location": "Toronto, Canada",
+      "email": "samuel.ullah@educhain.ca"
+    },
+    "company_profile": {
+      "name": "EduChain Verification",
+      "industry": "E-Learning",
+      "size": "51-200 Employees",
+      "funding_status": "Series A ($12M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00190",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADM90",
+      "post_date": "2025-11-25",
+      "post_snippet": "Seeking proposals for a **custom food recipe and nutrition platform** with user profiles and social sharing capabilities.",
+      "project_type": [
+        "Custom Web App",
+        "Health Tech",
+        "UX/UI Focus"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Tanya",
+      "last_name": "Velasco",
+      "job_title": "Head of Digital Products",
+      "location": "Mexico City, Mexico",
+      "email": "tanya.velasco@foodfit.mx"
+    },
+    "company_profile": {
+      "name": "Food Fit Media",
+      "industry": "Food & Beverages",
+      "size": "11-50 Employees",
+      "funding_status": "Self-funded"
+    }
+  },
+  {
+    "lead_id": "LNC00191",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADN91",
+      "post_date": "2025-12-03",
+      "post_snippet": "We're launching a new division and need a dedicated **partner reporting portal** for our B2B affiliates. Focus on commissions and secure payouts.",
+      "project_type": [
+        "Custom Web App",
+        "B2B Portal",
+        "Payment Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Ulysses",
+      "last_name": "West",
+      "job_title": "VP of Partner Relations",
+      "location": "New York, NY",
+      "email": "ulysses.west@affiliatepro.com"
+    },
+    "company_profile": {
+      "name": "Affiliate Pro Systems",
+      "industry": "SaaS (B2B)",
+      "size": "501-1000 Employees",
+      "funding_status": "Series C ($120M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00192",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADO92",
+      "post_date": "2025-11-21",
+      "post_snippet": "We need a team to build an **internal tool for automated financial compliance checking** against changing global regulations. Needs complex rule engine.",
+      "project_type": [
+        "Internal Tool Development",
+        "FinTech",
+        "Compliance Software"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Vivian",
+      "last_name": "Xie",
+      "job_title": "Head of Compliance Tech",
+      "location": "Singapore",
+      "email": "vivian.xie@globalregulate.sg"
+    },
+    "company_profile": {
+      "name": "Global Regulate Tech",
+      "industry": "Financial Services",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00193",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADP93",
+      "post_date": "2025-11-29",
+      "post_snippet": "We are evaluating vendors for a new **AI-driven personalization engine** for our massive e-commerce website. Needs to analyze real-time user behavior.",
+      "project_type": [
+        "AI/ML System",
+        "E-commerce",
+        "Recommendation Engine"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Wesley",
+      "last_name": "Yates",
+      "job_title": "VP of Digital Strategy",
+      "location": "Sydney, Australia",
+      "email": "wesley.yates@retailgiant.au"
+    },
+    "company_profile": {
+      "name": "Retail Giant Australia",
+      "industry": "E-commerce & Retail",
+      "size": "501-1000 Employees",
+      "funding_status": "Series B ($60M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00194",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADQ94",
+      "post_date": "2025-12-02",
+      "post_snippet": "Need a team to architect and build a **decentralized data sharing platform** for medical records. Experience with Hyperledger and compliance is key.",
+      "project_type": [
+        "Blockchain Development",
+        "Healthcare Tech",
+        "HIPAA Compliance"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Yara",
+      "last_name": "Zimmerman",
+      "job_title": "Chief Innovation Officer",
+      "location": "Zurich, Switzerland",
+      "email": "yara.zimmerman@healthchain.ch"
+    },
+    "company_profile": {
+      "name": "HealthChain Data",
+      "industry": "Healthcare & Wellness",
+      "size": "11-50 Employees",
+      "funding_status": "Seed"
+    }
+  },
+  {
+    "lead_id": "LNC00195",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADR95",
+      "post_date": "2025-11-26",
+      "post_snippet": "Seeking proposals for a **custom hotel booking and loyalty web platform** that integrates with multiple third-party booking APIs.",
+      "project_type": [
+        "Custom Web App",
+        "Travel Tech",
+        "API Integration"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Zane",
+      "last_name": "Anderson",
+      "job_title": "VP of Digital Strategy",
+      "location": "Dubai, UAE",
+      "email": "zane.anderson@luxurystays.ae"
+    },
+    "company_profile": {
+      "name": "Luxury Stays Worldwide",
+      "industry": "Hospitality",
+      "size": "201-500 Employees",
+      "funding_status": "Series C ($100M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00196",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADS96",
+      "post_date": "2025-12-03",
+      "post_snippet": "We need to build a **data visualization dashboard** for our manufacturing quality control team. Needs to handle real-time sensor data from the factory floor.",
+      "project_type": [
+        "Web App",
+        "Data Visualization",
+        "IoT"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Adrian",
+      "last_name": "Beyer",
+      "job_title": "Head of Production Systems",
+      "location": "Munich, Germany",
+      "email": "adrian.beyer@germanyprod.de"
+    },
+    "company_profile": {
+      "name": "Germany Production Corp.",
+      "industry": "Manufacturing",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
+  },
+  {
+    "lead_id": "LNC00197",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADT97",
+      "post_date": "2025-11-30",
+      "post_snippet": "Our sales team is drowning in manual work. Seeking solutions for a **lead qualification AI chatbot** integrated with our HubSpot CRM.",
+      "project_type": [
+        "AI/Chatbot Integration",
+        "CRM Integration",
+        "SalesTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Brenda",
+      "last_name": "Chan",
+      "job_title": "VP of Sales Operations",
+      "location": "Denver, CO",
+      "email": "brenda.chan@salesboost.net"
+    },
+    "company_profile": {
+      "name": "Sales Boost Solutions",
+      "industry": "Software/IT",
+      "size": "201-500 Employees",
+      "funding_status": "Series B ($75M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00198",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADU98",
+      "post_date": "2025-11-23",
+      "post_snippet": "Building an **AI-powered document classification system** for our legal filings. Looking for expertise in legal NLP and secure cloud storage.",
+      "project_type": [
+        "AI/ML System",
+        "NLP",
+        "Legal Tech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Carlos",
+      "last_name": "Diaz",
+      "job_title": "Head of Legal Technology",
+      "location": "New York, NY",
+      "email": "carlos.diaz@nycfirm.law"
+    },
+    "company_profile": {
+      "name": "NYC Legal Firm",
+      "industry": "Law Practice",
+      "size": "51-200 Employees",
+      "funding_status": "Private Equity"
+    }
+  },
+  {
+    "lead_id": "LNC00199",
+    "demand_signal": {
+      "signal_type": "Post",
+      "post_url": "linkedin.com/feed/update/ADV99",
+      "post_date": "2025-12-03",
+      "post_snippet": "Looking for agencies that can develop a **medication adherence mobile app** for chronic care patients. Must meet strict medical compliance standards.",
+      "project_type": [
+        "Mobile App Development",
+        "Health Tech",
+        "Compliance Software"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Dana",
+      "last_name": "Evans",
+      "job_title": "Chief Product Officer",
+      "location": "Atlanta, GA",
+      "email": "dana.evans@chronichealth.net"
+    },
+    "company_profile": {
+      "name": "Chronic Health Solutions",
+      "industry": "Healthcare & Wellness",
+      "size": "201-500 Employees",
+      "funding_status": "Series A ($25M raised)"
+    }
+  },
+  {
+    "lead_id": "LNC00200",
+    "demand_signal": {
+      "signal_type": "Comment",
+      "post_url": "linkedin.com/feed/update/ADW100",
+      "post_date": "2025-11-29",
+      "post_snippet": "We have an urgent need for a team to build an **internal dashboard** to monitor real-time stock market data feeds and generate alerts.",
+      "project_type": [
+        "Internal Tool Development",
+        "Web App",
+        "FinTech"
+      ]
+    },
+    "lead_profile": {
+      "first_name": "Eric",
+      "last_name": "Fisher",
+      "job_title": "VP of Trading Operations",
+      "location": "Amsterdam, Netherlands",
+      "email": "eric.fisher@amsterdamfunds.eu"
+    },
+    "company_profile": {
+      "name": "Amsterdam Funds Group",
+      "industry": "Investment Banking",
+      "size": "5000+ Employees",
+      "funding_status": "Publicly Traded"
+    }
   }
 ]
