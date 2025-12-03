@@ -1,402 +1,2881 @@
 [
   {
-    "title": "Backend Developer Needed",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 5184,
-    "client_history": 11,
-    "payment_status": "Verified",
-    "category": "Web Development"
+    "job_id": "UPW_J0001",
+    "job_post_data": {
+      "title": "Full-Stack Dev to Build Custom B2B SaaS Portal (React/Node)",
+      "url": "upwork.com/job/custom-saas-portal-4382",
+      "posted_date": "2025-12-03",
+      "description_snippet": "We need a team to build a secure, multi-tenant B2B portal from scratch. It must handle user roles, payment integration (Stripe), and a data visualization dashboard. Focus is on robust security and clean UI/UX.",
+      "project_type": [
+        "Custom Web App",
+        "SaaS Platform",
+        "Payment Integration"
+      ],
+      "required_skills": ["React", "Node.js", "MongoDB", "Stripe API", "AWS"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 15000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "London, UK",
+      "client_reviews": 15,
+      "total_spent": 50000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 7927,
-    "client_history": 2,
-    "payment_status": "Verified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0002",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Real-Time Inventory Forecasting Model",
+      "url": "upwork.com/job/ai-inventory-forecast-1294",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Seeking a data scientist to build an **AI forecasting model** to predict inventory demand based on historical sales and seasonal data. Must integrate with our existing ERP via Python API. Short PoC project, high pay.",
+      "project_type": [
+        "AI/ML System",
+        "Data Modeling",
+        "API Integration"
+      ],
+      "required_skills": ["Python", "TensorFlow", "Pandas", "Time Series Analysis", "REST API"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 65
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 5,
+      "total_spent": 10000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "4 hours ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 3571,
-    "client_history": 3,
-    "payment_status": "Unverified",
-    "category": "Automation"
+    "job_id": "UPW_J0003",
+    "job_post_data": {
+      "title": "Cross-Platform Mobile App MVP (Flutter) for Field Service Tracking",
+      "url": "upwork.com/job/mobile-field-service-5931",
+      "posted_date": "2025-12-03",
+      "description_snippet": "We need a simple **mobile application MVP** built in Flutter for iOS and Android. It must track technician location (GPS), allow photo uploads of work completed, and sync data when offline.",
+      "project_type": [
+        "Mobile App Development",
+        "MVP Launch",
+        "Geospatial"
+      ],
+      "required_skills": ["Flutter", "Dart", "Firebase", "Geolocation", "Offline Sync"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 5000,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Sydney, Australia",
+      "client_reviews": 32,
+      "total_spent": 250000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "30 minutes ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 4833,
-    "client_history": 3,
-    "payment_status": "Verified",
-    "category": "Web Development"
+    "job_id": "UPW_J0004",
+    "job_post_data": {
+      "title": "DevOps Engineer for HIPAA Compliant Cloud Setup (Web App Focus)",
+      "url": "upwork.com/job/hipaa-cloud-devops-9128",
+      "posted_date": "2025-11-30",
+      "description_snippet": "Seeking a DevOps expert to set up **HIPAA-compliant cloud infrastructure (AWS)** for our new telehealth web application. This is a one-time setup project focusing on security and compliance documentation.",
+      "project_type": [
+        "Web App Infrastructure",
+        "DevOps",
+        "Compliance Software"
+      ],
+      "required_skills": ["AWS", "Terraform", "Docker", "Kubernetes", "HIPAA/HITECH"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 8000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Atlanta, GA, US",
+      "client_reviews": 1,
+      "total_spent": 200,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "2 days ago"
+    }
   },
   {
-    "title": "Need React Developer",
-    "description": "Looking for a mobile app for our restaurant chain.",
-    "budget": 7151,
-    "client_history": 5,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0005",
+    "job_post_data": {
+      "title": "Need a React Native Developer to Add AI Chatbot to Existing App",
+      "url": "upwork.com/job/react-native-ai-integration-3245",
+      "posted_date": "2025-12-03",
+      "description_snippet": "We have an existing **React Native app**. Need a freelancer to implement a new **OpenAI API chatbot** feature for customer support. Requires experience with custom chat UI and secure API key management.",
+      "project_type": [
+        "Mobile App Development",
+        "AI/Chatbot Integration",
+        "API Integration"
+      ],
+      "required_skills": ["React Native", "TypeScript", "OpenAI API", "UI/UX Design"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 40
+    },
+    "client_engagement": {
+      "client_location": "Mumbai, India",
+      "client_reviews": 55,
+      "total_spent": 120000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "We need a React + Node dashboard for our logistics company.",
-    "budget": 12375,
-    "client_history": 7,
-    "payment_status": "Verified",
-    "category": "Web Development"
+    "job_id": "UPW_J0006",
+    "job_post_data": {
+      "title": "Senior Python Backend Developer for Fintech API",
+      "url": "upwork.com/job/fintech-api-backend-2114",
+      "posted_date": "2025-12-01",
+      "description_snippet": "We need a highly secure, scalable **Python/Django backend** for a new payment processing API. Must be familiar with PCI compliance and microservices architecture.",
+      "project_type": [
+        "Backend Development",
+        "FinTech",
+        "API Development"
+      ],
+      "required_skills": ["Python", "Django", "PostgreSQL", "Microservices", "Security"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 12000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 8,
+      "total_spent": 95000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "2 hours ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 1835,
-    "client_history": 9,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0007",
+    "job_post_data": {
+      "title": "iOS/Swift Developer needed for Health & Wellness App UI Refresh",
+      "url": "upwork.com/job/ios-health-app-ui-4590",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Our existing **iOS app** needs a complete **UI/UX redesign** to improve user retention. Focus is on clean, modern design and native Swift development.",
+      "project_type": [
+        "Mobile App Development",
+        "UX/UI Focus"
+      ],
+      "required_skills": ["Swift", "iOS SDK", "Figma", "Mobile Design", "HealthKit"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 45
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 40,
+      "total_spent": 30000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 11707,
-    "client_history": 9,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0008",
+    "job_post_data": {
+      "title": "Machine Learning Engineer for Automated Image Tagging System (E-commerce)",
+      "url": "upwork.com/job/ml-image-tagging-2917",
+      "posted_date": "2025-11-29",
+      "description_snippet": "We need an **ML model** to automatically tag product images in our **e-commerce** inventory. Must use **Computer Vision** (CV) techniques and integrate via AWS SageMaker.",
+      "project_type": [
+        "AI/ML System",
+        "Computer Vision",
+        "E-commerce"
+      ],
+      "required_skills": ["Python", "Pytorch/TensorFlow", "Computer Vision", "AWS SageMaker"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 9000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Berlin, Germany",
+      "client_reviews": 3,
+      "total_spent": 8000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "6 hours ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Looking for a mobile app for our restaurant chain.",
-    "budget": 4821,
-    "client_history": 16,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0009",
+    "job_post_data": {
+      "title": "WordPress/PHP Developer for Custom Dashboard Integration",
+      "url": "upwork.com/job/wordpress-custom-dashboard-7653",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Looking for a PHP expert to build a **custom administrative dashboard** plugin for WordPress. Must pull data from external REST APIs and provide data entry capabilities.",
+      "project_type": [
+        "Custom Web App",
+        "API Integration"
+      ],
+      "required_skills": ["WordPress", "PHP", "MySQL", "REST API", "JavaScript"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 25
+    },
+    "client_engagement": {
+      "client_location": "Miami, FL, US",
+      "client_reviews": 60,
+      "total_spent": 15000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Backend Developer Needed",
-    "description": "Need an AI chatbot for customer support.",
-    "budget": 12629,
-    "client_history": 8,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0010",
+    "job_post_data": {
+      "title": "ReactJS Front-End Developer for Financial Data Visualization Tool",
+      "url": "upwork.com/job/react-data-viz-2398",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Need a strong front-end **React developer** to implement complex **data visualizations** (charts, tables) for a financial reporting tool. Must be comfortable with D3.js or similar libraries.",
+      "project_type": [
+        "Web App",
+        "Data Visualization",
+        "FinTech"
+      ],
+      "required_skills": ["React", "JavaScript", "D3.js", "Redux", "UX/UI"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 6000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 12,
+      "total_spent": 75000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "8 hours ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "Need an AI chatbot for customer support.",
-    "budget": 1522,
-    "client_history": 2,
-    "payment_status": "Unverified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0011",
+    "job_post_data": {
+      "title": "Flutter Developer for Telehealth Patient Portal MVP",
+      "url": "upwork.com/job/flutter-telehealth-mvp-6789",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Building an **MVP telehealth mobile app**. Needs secure login, basic appointment scheduling, and video call integration. **Flutter** is required for cross-platform speed.",
+      "project_type": [
+        "Mobile App Development",
+        "Health Tech",
+        "MVP Launch"
+      ],
+      "required_skills": ["Flutter", "Dart", "Secure Storage", "Video API", "OAuth"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 10000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Denver, CO, US",
+      "client_reviews": 6,
+      "total_spent": 1500,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "15 minutes ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Need automation for our sales pipeline.",
-    "budget": 9325,
-    "client_history": 6,
-    "payment_status": "Verified",
-    "category": "Automation"
+    "job_id": "UPW_J0012",
+    "job_post_data": {
+      "title": "NLP Engineer for Legal Document Classification and Summary",
+      "url": "upwork.com/job/nlp-legal-classification-8012",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Seeking an **NLP expert** to build a system that classifies and generates short summaries for legal contracts. Experience with BERT or similar transformer models required.",
+      "project_type": [
+        "AI/ML System",
+        "NLP",
+        "Legal Tech"
+      ],
+      "required_skills": ["Python", "NLP", "BERT/Transformers", "Text Classification", "AWS/GCP"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 70
+    },
+    "client_engagement": {
+      "client_location": "Washington, D.C., US",
+      "client_reviews": 0,
+      "total_spent": 0,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 day ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Looking for dedicated developer for SaaS product.",
-    "budget": 2069,
-    "client_history": 2,
-    "payment_status": "Verified",
-    "category": "Web Development"
+    "job_id": "UPW_J0013",
+    "job_post_data": {
+      "title": "GoLang Backend Developer for High-Volume E-commerce API",
+      "url": "upwork.com/job/golang-ecommerce-api-1109",
+      "posted_date": "2025-12-02",
+      "description_snippet": "We need a **GoLang developer** to optimize and expand our existing **e-commerce** microservices. Must handle 10k+ requests per second and maintain low latency.",
+      "project_type": [
+        "Backend Development",
+        "E-commerce",
+        "Low Latency"
+      ],
+      "required_skills": ["GoLang", "Microservices", "Kafka", "PostgreSQL", "Load Testing"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 55
+    },
+    "client_engagement": {
+      "client_location": "Singapore",
+      "client_reviews": 22,
+      "total_spent": 400000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 8921,
-    "client_history": 2,
-    "payment_status": "Unverified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0014",
+    "job_post_data": {
+      "title": "Vue.js Developer for Custom HR Employee Portal",
+      "url": "upwork.com/job/vuejs-hr-portal-3098",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Looking for a **Vue.js expert** to build the front-end for a new internal **HR employee portal**. Needs components for benefits selection and PTO requests. Must adhere to strict accessibility standards.",
+      "project_type": [
+        "Custom Web App",
+        "HR Tech",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["Vue.js", "Vuex", "SCSS", "Accessibility", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 7000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Chicago, IL, US",
+      "client_reviews": 18,
+      "total_spent": 65000,
+      "proposals_count": "15 to 20",
+      "last_viewed_by_client": "3 hours ago"
+    }
   },
   {
-    "title": "Backend Developer Needed",
-    "description": "Looking for dedicated developer for SaaS product.",
-    "budget": 4865,
-    "client_history": 9,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0015",
+    "job_post_data": {
+      "title": "AR/VR Developer for Industrial Training Simulation (Unity)",
+      "url": "upwork.com/job/ar-industrial-simulation-9987",
+      "posted_date": "2025-11-26",
+      "description_snippet": "We require a developer proficient in **Unity** to build an **Augmented Reality (AR) training module** for complex industrial machinery operation. Needs a score tracking system.",
+      "project_type": [
+        "VR/AR Development",
+        "Manufacturing Tech"
+      ],
+      "required_skills": ["Unity", "C#", "ARKit/ARCore", "3D Modeling", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 20000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Munich, Germany",
+      "client_reviews": 2,
+      "total_spent": 1000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 day ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 2657,
-    "client_history": 0,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0016",
+    "job_post_data": {
+      "title": "Node.js Developer for Real-Time Chat System (Social App)",
+      "url": "upwork.com/job/nodejs-realtime-chat-5432",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Need a **Node.js expert** to build a reliable, real-time chat feature for our **social networking mobile app**. Requires Socket.io and secure authentication.",
+      "project_type": [
+        "Backend Development",
+        "Mobile App Development",
+        "Social Networking"
+      ],
+      "required_skills": ["Node.js", "Socket.io", "Express", "NoSQL", "JWT"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 35
+    },
+    "client_engagement": {
+      "client_location": "Los Angeles, CA, US",
+      "client_reviews": 11,
+      "total_spent": 20000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "5 minutes ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "Need an AI chatbot for customer support.",
-    "budget": 11683,
-    "client_history": 1,
-    "payment_status": "Verified",
-    "category": "Automation"
+    "job_id": "UPW_J0017",
+    "job_post_data": {
+      "title": "Expert in Financial Fraud Detection (AI/ML Models)",
+      "url": "upwork.com/job/ai-fraud-detection-4567",
+      "posted_date": "2025-11-27",
+      "description_snippet": "We need a **Senior ML Engineer** to optimize our existing **transactional fraud detection models**. Must have experience with anomaly detection in high-volume FinTech systems.",
+      "project_type": [
+        "AI/ML System",
+        "FinTech",
+        "Fraud Detection"
+      ],
+      "required_skills": ["Python", "Scikit-learn", "Keras", "Anomaly Detection", "High-Volume Data"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 18000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Hong Kong",
+      "client_reviews": 7,
+      "total_spent": 150000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 7108,
-    "client_history": 1,
-    "payment_status": "Unverified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0018",
+    "job_post_data": {
+      "title": "React/Redux Front-end for Supply Chain Tracking Dashboard",
+      "url": "upwork.com/job/react-supply-chain-dashboard-3321",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Develop the front-end of a complex **supply chain tracking web dashboard**. Requires proficiency with data tables, filtering, and mapping visualizations.",
+      "project_type": [
+        "Web App",
+        "Logistics Tech",
+        "Data Visualization"
+      ],
+      "required_skills": ["React", "Redux", "Data Grid Libraries", "Mapping APIs", "TypeScript"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 48
+    },
+    "client_engagement": {
+      "client_location": "Dubai, UAE",
+      "client_reviews": 19,
+      "total_spent": 350000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "7 hours ago"
+    }
   },
   {
-    "title": "Backend Developer Needed",
-    "description": "We need a React + Node dashboard for our logistics company.",
-    "budget": 13586,
-    "client_history": 6,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0019",
+    "job_post_data": {
+      "title": "Native Android Developer for Fitness Tracking App MVP",
+      "url": "upwork.com/job/android-fitness-mvp-6045",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Seeking a dedicated **Native Android (Kotlin/Java) developer** to build an **MVP fitness tracker** that integrates with Google Fit and tracks user routes via GPS.",
+      "project_type": [
+        "Mobile App Development",
+        "Health Tech",
+        "MVP Launch"
+      ],
+      "required_skills": ["Kotlin", "Android SDK", "Google Fit API", "Geolocation", "Material Design"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 4000,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 9,
+      "total_spent": 12000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "20 minutes ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Need automation for our sales pipeline.",
-    "budget": 8597,
-    "client_history": 13,
-    "payment_status": "Verified",
-    "category": "Automation"
+    "job_id": "UPW_J0020",
+    "job_post_data": {
+      "title": "Blockchain Developer for NFT Marketplace Smart Contracts (Solidity)",
+      "url": "upwork.com/job/blockchain-nft-marketplace-8765",
+      "posted_date": "2025-11-25",
+      "description_snippet": "We need an experienced **Solidity developer** to write, audit, and deploy the core **smart contracts** for a new **NFT marketplace** on the Polygon network.",
+      "project_type": [
+        "Blockchain Development",
+        "FinTech"
+      ],
+      "required_skills": ["Solidity", "Smart Contracts", "Hardhat", "Truffle", "DeFi"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 25000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Singapore",
+      "client_reviews": 4,
+      "total_spent": 35000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 day ago"
+    }
   },
   {
-    "title": "Need React Developer",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 2417,
-    "client_history": 2,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0021",
+    "job_post_data": {
+      "title": "ASP.NET Core Developer for Legacy System Migration (Internal Tool)",
+      "url": "upwork.com/job/dotnet-legacy-migration-1123",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Migrate an outdated internal financial tracking tool from classic ASP to **ASP.NET Core** and move the database to Azure SQL. Focus on data fidelity and security.",
+      "project_type": [
+        "Custom Web App",
+        "Internal Tool Development",
+        "Legacy Integration"
+      ],
+      "required_skills": [".NET Core", "C#", "Azure SQL", "T-SQL", "Cloud Migration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 50
+    },
+    "client_engagement": {
+      "client_location": "Chicago, IL, US",
+      "client_reviews": 25,
+      "total_spent": 180000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Need an AI chatbot for customer support.",
-    "budget": 2681,
-    "client_history": 1,
-    "payment_status": "Unverified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0022",
+    "job_post_data": {
+      "title": "Data Scientist for HR Attrition Prediction Model",
+      "url": "upwork.com/job/hr-attrition-model-6543",
+      "posted_date": "2025-11-30",
+      "description_snippet": "Need a **Data Scientist** to build a **predictive ML model** to identify employees at high risk of attrition using HR and survey data. Requires strong feature engineering skills.",
+      "project_type": [
+        "AI/ML System",
+        "HR Tech",
+        "Data Modeling"
+      ],
+      "required_skills": ["Python", "Scikit-learn", "Pandas", "Statistical Analysis", "HR Data"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 7500,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Dublin, Ireland",
+      "client_reviews": 10,
+      "total_spent": 30000,
+      "proposals_count": "15 to 20",
+      "last_viewed_by_client": "5 hours ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Need an AI chatbot for customer support.",
-    "budget": 3864,
-    "client_history": 11,
-    "payment_status": "Unverified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0023",
+    "job_post_data": {
+      "title": "Experienced Swift/iOS Developer for IoT Integration App",
+      "url": "upwork.com/job/ios-iot-integration-7123",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Develop a **Native iOS app** to monitor and control small **IoT devices** in a smart home environment. Needs real-time data streaming and secure pairing (Bluetooth LE).",
+      "project_type": [
+        "Mobile App Development",
+        "IoT"
+      ],
+      "required_skills": ["Swift", "iOS SDK", "Bluetooth LE", "Real-Time Data", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 58
+    },
+    "client_engagement": {
+      "client_location": "San Jose, CA, US",
+      "client_reviews": 4,
+      "total_spent": 12000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 day ago"
+    }
   },
   {
-    "title": "Backend Developer Needed",
-    "description": "Looking for dedicated developer for SaaS product.",
-    "budget": 1260,
-    "client_history": 14,
-    "payment_status": "Unverified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0024",
+    "job_post_data": {
+      "title": "Full-Stack Laravel Developer for E-commerce B2B Portal",
+      "url": "upwork.com/job/laravel-b2b-ecommerce-9543",
+      "posted_date": "2025-12-03",
+      "description_snippet": "We need a **Laravel/PHP expert** to build a B2B **e-commerce portal** with custom pricing tiers, quoting system, and deep inventory sync with our main database.",
+      "project_type": [
+        "Custom Web App",
+        "E-commerce Platform",
+        "Backend Development"
+      ],
+      "required_skills": ["Laravel", "PHP", "Vue.js/Blade", "MySQL", "Inventory Management"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 11000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Mexico City, Mexico",
+      "client_reviews": 35,
+      "total_spent": 80000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "30 minutes ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 11061,
-    "client_history": 2,
-    "payment_status": "Unverified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0025",
+    "job_post_data": {
+      "title": "AWS Architect for Serverless Data Pipeline (AI Focus)",
+      "url": "upwork.com/job/aws-serverless-ai-pipeline-4477",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Design and implement a robust, serverless **data ingestion pipeline** on AWS (Lambda, S3, DynamoDB) to feed data into our **AI/ML models** for weekly training runs.",
+      "project_type": [
+        "Backend Development",
+        "AI/ML System",
+        "Cloud Infrastructure"
+      ],
+      "required_skills": ["AWS Lambda", "S3", "DynamoDB", "Cloud Architecture", "Python"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 7000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Seattle, WA, US",
+      "client_reviews": 14,
+      "total_spent": 110000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Looking for a mobile app for our restaurant chain.",
-    "budget": 3274,
-    "client_history": 16,
-    "payment_status": "Verified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0026",
+    "job_post_data": {
+      "title": "React Native Developer for EdTech Quiz App (iOS/Android)",
+      "url": "upwork.com/job/react-native-edtech-quiz-3355",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a simple, engaging **React Native quiz app** for an **EdTech** platform. Features include user scoring, progress tracking, and integration with a custom CMS API.",
+      "project_type": [
+        "Mobile App Development",
+        "EdTech",
+        "MVP Launch"
+      ],
+      "required_skills": ["React Native", "Redux", "API Integration", "UX/UI", "Jest"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 4500,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 2,
+      "total_spent": 300,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 5496,
-    "client_history": 7,
-    "payment_status": "Unverified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0027",
+    "job_post_data": {
+      "title": "Node.js/TypeScript Developer for Custom CRM Integration",
+      "url": "upwork.com/job/nodejs-crm-integration-8877",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Need a developer to build a robust **Node.js service** that syncs data in real-time between our internal system and Salesforce CRM. Focus on reliability and error handling.",
+      "project_type": [
+        "Backend Development",
+        "API Integration"
+      ],
+      "required_skills": ["Node.js", "TypeScript", "Salesforce API", "REST", "Queue Systems"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 60
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 16,
+      "total_spent": 210000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "2 hours ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 2931,
-    "client_history": 13,
-    "payment_status": "Unverified",
-    "category": "Automation"
+    "job_id": "UPW_J0028",
+    "job_post_data": {
+      "title": "Data Visualization Expert for Energy Consumption Dashboard (React)",
+      "url": "upwork.com/job/react-energy-dashboard-4011",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a responsive **React web dashboard** to visualize real-time energy consumption data from industrial sensors. Must handle high-frequency data streams effectively.",
+      "project_type": [
+        "Web App",
+        "Data Visualization",
+        "IoT"
+      ],
+      "required_skills": ["React", "Highcharts/Plotly", "WebSockets", "Real-Time Data", "UX/UI"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 8500,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Houston, TX, US",
+      "client_reviews": 28,
+      "total_spent": 450000,
+      "proposals_count": "15 to 20",
+      "last_viewed_by_client": "15 minutes ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 11284,
-    "client_history": 15,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0029",
+    "job_post_data": {
+      "title": "Lead Mobile Developer (Native) for E-commerce Checkout Flow",
+      "url": "upwork.com/job/native-ecommerce-checkout-5198",
+      "posted_date": "2025-11-29",
+      "description_snippet": "Rebuild our entire **e-commerce mobile app checkout flow** (iOS/Android) for improved conversion. Must be highly secure and integrate multiple payment methods.",
+      "project_type": [
+        "Mobile App Development",
+        "E-commerce",
+        "Payment Integration"
+      ],
+      "required_skills": ["iOS/Swift", "Android/Kotlin", "Payment Gateways", "Security", "UX Optimization"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 14000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Paris, France",
+      "client_reviews": 3,
+      "total_spent": 5000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "1 day ago"
+    }
   },
   {
-    "title": "Backend Developer Needed",
-    "description": "Need automation for our sales pipeline.",
-    "budget": 4005,
-    "client_history": 9,
-    "payment_status": "Verified",
-    "category": "Automation"
+    "job_id": "UPW_J0030",
+    "job_post_data": {
+      "title": "GenAI Prompt Engineer for Internal Support Chatbot",
+      "url": "upwork.com/job/genai-support-chatbot-7001",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop and fine-tune prompts and RAG pipeline for a **Generative AI chatbot** to handle internal IT support queries based on our knowledge base. Needs **OpenAI/Azure** experience.",
+      "project_type": [
+        "AI/Chatbot Integration",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["Prompt Engineering", "RAG", "Python", "OpenAI API", "LangChain"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 55
+    },
+    "client_engagement": {
+      "client_location": "San Francisco, CA, US",
+      "client_reviews": 50,
+      "total_spent": 750000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "5 minutes ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 774,
-    "client_history": 12,
-    "payment_status": "Unverified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0031",
+    "job_post_data": {
+      "title": "Django/React Full-Stack for New EdTech Learning Platform",
+      "url": "upwork.com/job/django-react-edtech-8210",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Build a secure **EdTech learning platform** (SaaS) with user authentication, course progress tracking, and secure media streaming. **Django** backend with **React** frontend.",
+      "project_type": [
+        "Custom Web App",
+        "SaaS Platform",
+        "EdTech"
+      ],
+      "required_skills": ["Django", "Python", "React", "PostgreSQL", "Authentication (JWT)"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 16000,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 10,
+      "total_spent": 30000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "2 hours ago"
+    }
   },
   {
-    "title": "Need React Developer",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 2048,
-    "client_history": 9,
-    "payment_status": "Unverified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0032",
+    "job_post_data": {
+      "title": "Senior Java Developer for High-Frequency Trading System Optimization",
+      "url": "upwork.com/job/java-hft-optimization-9345",
+      "posted_date": "2025-11-27",
+      "description_snippet": "Optimize core components of a high-frequency trading application written in **Java**. Deep knowledge of concurrency, low latency, and garbage collection tuning is essential.",
+      "project_type": [
+        "Backend Development",
+        "FinTech",
+        "Low Latency"
+      ],
+      "required_skills": ["Java", "Concurrency", "Low Latency", "Financial Systems", "JVM Tuning"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 90
+    },
+    "client_engagement": {
+      "client_location": "London, UK",
+      "client_reviews": 3,
+      "total_spent": 40000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 day ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 9471,
-    "client_history": 0,
-    "payment_status": "Unverified",
-    "category": "Automation"
+    "job_id": "UPW_J0033",
+    "job_post_data": {
+      "title": "Cross-Platform Mobile Developer for Event Management App",
+      "url": "upwork.com/job/mobile-event-management-2876",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop an event check-in and scheduling **mobile application** (preferably **React Native**) for large corporate events. Needs QR code scanning and offline data capabilities.",
+      "project_type": [
+        "Mobile App Development",
+        "Enterprise Software"
+      ],
+      "required_skills": ["React Native", "Expo", "QR Code Scanner", "Offline Sync", "Redux"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 8000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 45,
+      "total_spent": 300000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Looking for dedicated developer for SaaS product.",
-    "budget": 12383,
-    "client_history": 9,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0034",
+    "job_post_data": {
+      "title": "Computer Vision Engineer for Manufacturing Defect Detection",
+      "url": "upwork.com/job/cv-defect-detection-3870",
+      "posted_date": "2025-11-29",
+      "description_snippet": "We need an experienced **Computer Vision Engineer** to train and deploy a model for real-time defect detection on an assembly line. Must be familiar with edge deployment.",
+      "project_type": [
+        "AI/ML System",
+        "Computer Vision",
+        "Manufacturing Tech"
+      ],
+      "required_skills": ["Python", "OpenCV", "YOLO/Faster R-CNN", "Edge Computing", "TensorFlow"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 11000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Shanghai, China",
+      "client_reviews": 20,
+      "total_spent": 90000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "4 hours ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 6149,
-    "client_history": 11,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0035",
+    "job_post_data": {
+      "title": "Full-Stack TypeScript Developer for Inventory Management System",
+      "url": "upwork.com/job/typescript-inventory-system-1987",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Build a new internal **inventory management web application** from scratch using a modern **TypeScript** stack (e.g., NestJS/Next.js). Needs complex CRUD operations and barcode scanning via PWA.",
+      "project_type": [
+        "Custom Web App",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["TypeScript", "Next.js/NestJS", "PostgreSQL", "API Design", "PWA"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 60
+    },
+    "client_engagement": {
+      "client_location": "Sydney, Australia",
+      "client_reviews": 1,
+      "total_spent": 500,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "30 minutes ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Need automation for our sales pipeline.",
-    "budget": 6644,
-    "client_history": 18,
-    "payment_status": "Verified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0036",
+    "job_post_data": {
+      "title": "iOS/Swift Developer to Integrate Custom Payment Gateway",
+      "url": "upwork.com/job/ios-payment-gateway-3456",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Integrate a **custom payment gateway API** into our existing **iOS retail app**. Requires deep knowledge of secure transaction handling and Apple Pay integration.",
+      "project_type": [
+        "Mobile App Development",
+        "Payment Integration",
+        "FinTech"
+      ],
+      "required_skills": ["Swift", "iOS SDK", "Payment Gateway Integration", "Security", "REST API"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 5500,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Dubai, UAE",
+      "client_reviews": 90,
+      "total_spent": 400000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "5 minutes ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 2443,
-    "client_history": 6,
-    "payment_status": "Unverified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0037",
+    "job_post_data": {
+      "title": "UX/UI Designer for E-commerce Cart and Checkout Flow",
+      "url": "upwork.com/job/ecommerce-checkout-ux-9921",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Need an expert **UX/UI designer** to optimize and redesign the cart and checkout process for our high-volume **e-commerce website**. Deliverables include wireframes and high-fidelity prototypes (Figma).",
+      "project_type": [
+        "Web App",
+        "E-commerce",
+        "UX/UI Focus"
+      ],
+      "required_skills": ["Figma", "Sketch", "Prototyping", "UX Research", "E-commerce Optimization"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 45
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 15,
+      "total_spent": 120000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "3 hours ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "Need automation for our sales pipeline.",
-    "budget": 10460,
-    "client_history": 0,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0038",
+    "job_post_data": {
+      "title": "Python Developer for Automated Reporting Tool (Internal)",
+      "url": "upwork.com/job/python-automated-reporting-4500",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a small **Python-based internal tool** that runs daily scripts to pull data from internal databases, generate PDF reports, and email them to stakeholders. Needs simple web interface for config.",
+      "project_type": [
+        "Internal Tool Development",
+        "Backend Development",
+        "Automation"
+      ],
+      "required_skills": ["Python", "Pandas", "Django/Flask", "PDF Generation", "Email Automation"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 3000,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Miami, FL, US",
+      "client_reviews": 2,
+      "total_spent": 1000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 7385,
-    "client_history": 16,
-    "payment_status": "Unverified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0039",
+    "job_post_data": {
+      "title": "Machine Learning Expert for Personalized EdTech Recommendations",
+      "url": "upwork.com/job/ml-edtech-recommendations-7890",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Develop and deploy a **personalized recommendation engine** for our **EdTech** platform to suggest courses based on user performance and history. Focus on collaborative filtering techniques.",
+      "project_type": [
+        "AI/ML System",
+        "EdTech",
+        "Recommendation Engine"
+      ],
+      "required_skills": ["Python", "Recommendation Systems", "Collaborative Filtering", "AWS SageMaker"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 12000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 18,
+      "total_spent": 180000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Need React Developer",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 2426,
-    "client_history": 4,
-    "payment_status": "Verified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0040",
+    "job_post_data": {
+      "title": "React Native/Expo Developer for Property Management Mobile App",
+      "url": "upwork.com/job/react-native-property-app-2345",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Build a tenant-facing **React Native mobile app** for our property management system. Key features include maintenance request submission (with photos) and rent payment integration.",
+      "project_type": [
+        "Mobile App Development",
+        "Real Estate Tech"
+      ],
+      "required_skills": ["React Native", "Expo", "Formik", "Stripe API", "Photo Upload"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 40
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 1,
+      "total_spent": 200,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "2 days ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Looking for dedicated developer for SaaS product.",
-    "budget": 4318,
-    "client_history": 20,
-    "payment_status": "Verified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0041",
+    "job_post_data": {
+      "title": "Angular Developer for Enterprise Dashboard UI",
+      "url": "upwork.com/job/angular-enterprise-dashboard-4876",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Need a senior **Angular developer** to rebuild the UI of a complex enterprise monitoring dashboard. Must be proficient with state management (NgRx) and large, complex forms.",
+      "project_type": [
+        "Web App",
+        "Enterprise Software"
+      ],
+      "required_skills": ["Angular", "TypeScript", "NgRx", "RxJS", "SCSS"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 9500,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Chicago, IL, US",
+      "client_reviews": 22,
+      "total_spent": 90000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "We need a React + Node dashboard for our logistics company.",
-    "budget": 9613,
-    "client_history": 13,
-    "payment_status": "Verified",
-    "category": "Automation"
+    "job_id": "UPW_J0042",
+    "job_post_data": {
+      "title": "Security Expert for Penetration Testing (FinTech Web App)",
+      "url": "upwork.com/job/fintech-penetration-testing-3311",
+      "posted_date": "2025-11-26",
+      "description_snippet": "Conduct a comprehensive **penetration test and security audit** on our new **FinTech web application**. Deliverables include detailed vulnerability reports and remediation suggestions.",
+      "project_type": [
+        "Security Software",
+        "FinTech"
+      ],
+      "required_skills": ["Penetration Testing", "OWASP Top 10", "Web Security", "Report Writing", "Kali Linux"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 5000,
+      "duration": "Less than 1 month",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 8,
+      "total_spent": 60000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "3 days ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 8412,
-    "client_history": 19,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0043",
+    "job_post_data": {
+      "title": "Full-Stack Developer for Custom Inventory Management Web App",
+      "url": "upwork.com/job/inventory-management-fullstack-5678",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Need a full-stack developer to build a new internal **inventory and asset tracking system** (web app). Needs complex search, barcode integration, and reporting features.",
+      "project_type": [
+        "Custom Web App",
+        "Internal Tool Development",
+        "E-commerce"
+      ],
+      "required_skills": ["MERN Stack", "Express", "React", "MongoDB", "Barcode Scanner API"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 38
+    },
+    "client_engagement": {
+      "client_location": "Houston, TX, US",
+      "client_reviews": 70,
+      "total_spent": 150000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "5 minutes ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Require a Flutter developer for MVP app.",
-    "budget": 5706,
-    "client_history": 7,
-    "payment_status": "Verified",
-    "category": "Automation"
+    "job_id": "UPW_J0044",
+    "job_post_data": {
+      "title": "Machine Learning Engineer for Geo-Spatial Delivery Optimization",
+      "url": "upwork.com/job/ml-delivery-optimization-8876",
+      "posted_date": "2025-11-29",
+      "description_snippet": "Develop and optimize a **machine learning model** for real-time delivery route optimization based on traffic and order density. Requires strong **Geospatial** experience.",
+      "project_type": [
+        "AI/ML System",
+        "Logistics Tech",
+        "Geospatial"
+      ],
+      "required_skills": ["Python", "Scikit-learn", "Geospatial Libraries", "Optimization Algorithms", "API Deployment"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 16000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Tokyo, Japan",
+      "client_reviews": 11,
+      "total_spent": 85000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Need React Developer",
-    "description": "Seeking long-term full-stack developer.",
-    "budget": 13546,
-    "client_history": 2,
-    "payment_status": "Verified",
-    "category": "Mobile Development"
+    "job_id": "UPW_J0045",
+    "job_post_data": {
+      "title": "React Native Developer for Gamified HR Training App",
+      "url": "upwork.com/job/react-native-gamified-hr-4455",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Build a new **React Native mobile app** with **gamification** elements (points, badges, leaderboards) for internal employee training and engagement. Must integrate with our LMS.",
+      "project_type": [
+        "Mobile App Development",
+        "HR Tech",
+        "Gamification"
+      ],
+      "required_skills": ["React Native", "Gamification Design", "API Integration", "UX/UI", "Redux"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 42
+    },
+    "client_engagement": {
+      "client_location": "Atlanta, GA, US",
+      "client_reviews": 14,
+      "total_spent": 35000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "2 hours ago"
+    }
   },
   {
-    "title": "Looking for Full Stack Dev",
-    "description": "Need an AI chatbot for customer support.",
-    "budget": 11598,
-    "client_history": 12,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0046",
+    "job_post_data": {
+      "title": "Solidity Developer for Secure Voting dApp",
+      "url": "upwork.com/job/solidity-secure-voting-2211",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop and audit secure **Solidity smart contracts** for a decentralized corporate voting application (**dApp**). Focus on security, gas efficiency, and verifiability.",
+      "project_type": [
+        "Blockchain Development",
+        "Security Software"
+      ],
+      "required_skills": ["Solidity", "Truffle", "Smart Contract Security", "Web3.js", "Ethereum"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 10000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 5,
+      "total_spent": 15000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Looking for a mobile app for our restaurant chain.",
-    "budget": 9810,
-    "client_history": 11,
-    "payment_status": "Unverified",
-    "category": "Web Development"
+    "job_id": "UPW_J0047",
+    "job_post_data": {
+      "title": "Senior Java Developer for Enterprise Backend Microservices",
+      "url": "upwork.com/job/java-microservices-7654",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Develop and deploy scalable **Java Spring Boot microservices** for a large enterprise system. Must be proficient in cloud deployment (GCP) and CI/CD pipelines.",
+      "project_type": [
+        "Backend Development",
+        "Enterprise Software",
+        "Cloud Infrastructure"
+      ],
+      "required_skills": ["Java", "Spring Boot", "Microservices", "GCP", "CI/CD"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 65
+    },
+    "client_engagement": {
+      "client_location": "Chicago, IL, US",
+      "client_reviews": 40,
+      "total_spent": 500000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
   },
   {
-    "title": "Flutter App Developer",
-    "description": "Need automation for our sales pipeline.",
-    "budget": 9758,
-    "client_history": 5,
-    "payment_status": "Verified",
-    "category": "Web Development"
+    "job_id": "UPW_J0048",
+    "job_post_data": {
+      "title": "Machine Learning Engineer for Anomaly Detection (IoT Data)",
+      "url": "upwork.com/job/ml-iot-anomaly-9012",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Build an **AI anomaly detection system** to monitor sensor data from industrial **IoT devices** in real-time. Requires experience with time-series data and stream processing.",
+      "project_type": [
+        "AI/ML System",
+        "IoT",
+        "Data Modeling"
+      ],
+      "required_skills": ["Python", "Time Series Analysis", "Stream Processing", "Kafka", "Anomaly Detection"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 13000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Berlin, Germany",
+      "client_reviews": 6,
+      "total_spent": 25000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "5 hours ago"
+    }
   },
   {
-    "title": "AI Chatbot Developer Required",
-    "description": "We need a React + Node dashboard for our logistics company.",
-    "budget": 14585,
-    "client_history": 4,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0049",
+    "job_post_data": {
+      "title": "Native iOS Developer for Augmented Reality E-commerce App",
+      "url": "upwork.com/job/ios-ar-ecommerce-6754",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop a **Native iOS application** that uses **Augmented Reality (ARKit)** for virtual placement of furniture in a user's home. Must integrate with our product catalog API.",
+      "project_type": [
+        "Mobile App Development",
+        "Augmented Reality (AR)",
+        "E-commerce"
+      ],
+      "required_skills": ["Swift", "ARKit", "3D Rendering", "API Integration", "E-commerce"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 18000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Paris, France",
+      "client_reviews": 1,
+      "total_spent": 100,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "10 minutes ago"
+    }
   },
   {
-    "title": "Dashboard UI Developer",
-    "description": "Want to rebuild our website using Next.js.",
-    "budget": 1190,
-    "client_history": 12,
-    "payment_status": "Verified",
-    "category": "AI/ML"
+    "job_id": "UPW_J0050",
+    "job_post_data": {
+      "title": "Full-Stack React/Django Developer for FinTech Compliance Tool",
+      "url": "upwork.com/job/react-django-fintech-compliance-2299",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Build a secure **FinTech compliance tool** (web app) for monitoring transaction patterns against regulatory rules. Requires a robust **Django** backend and a **React** dashboard.",
+      "project_type": [
+        "Custom Web App",
+        "FinTech",
+        "Compliance Software"
+      ],
+      "required_skills": ["Django", "React", "PostgreSQL", "Security", "Compliance Tech"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 75
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 10,
+      "total_spent": 90000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0051",
+    "job_post_data": {
+      "title": "Webflow/Front-end Developer for SaaS Landing Page",
+      "url": "upwork.com/job/webflow-saas-landing-9080",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Design and build a high-conversion, mobile-responsive **landing page** for our new SaaS product using **Webflow**. Must be fast-loading and integrate with HubSpot.",
+      "project_type": [
+        "Web Development",
+        "UX/UI Focus"
+      ],
+      "required_skills": ["Webflow", "HTML/CSS/JS", "Responsive Design", "HubSpot Integration"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 1500,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 50,
+      "total_spent": 120000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "5 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0052",
+    "job_post_data": {
+      "title": "AI/NLP Engineer for Customer Service Chatbot Development",
+      "url": "upwork.com/job/ai-customer-service-chatbot-4011",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Develop and train a sophisticated **NLP model** for a customer service chatbot that can escalate complex queries. Must have experience with conversational AI platforms.",
+      "project_type": [
+        "AI/Chatbot Integration",
+        "NLP"
+      ],
+      "required_skills": ["Python", "Rasa/Dialogflow", "NLP", "Conversational AI", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 68
+    },
+    "client_engagement": {
+      "client_location": "Dublin, Ireland",
+      "client_reviews": 10,
+      "total_spent": 55000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "2 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0053",
+    "job_post_data": {
+      "title": "React Native Developer for EdTech Lesson Management",
+      "url": "upwork.com/job/react-native-edtech-lesson-2290",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Build a new **React Native app** for teachers to manage lessons, track student submissions, and send notifications. Needs offline mode and strong data sync.",
+      "project_type": [
+        "Mobile App Development",
+        "EdTech",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["React Native", "Redux Toolkit", "Offline Sync", "iOS/Android Deployment"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 8000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 30,
+      "total_spent": 150000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "30 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0054",
+    "job_post_data": {
+      "title": "Senior NodeJS Developer for Scalable API Backend",
+      "url": "upwork.com/job/nodejs-scalable-api-3344",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop a new, highly scalable **NodeJS/TypeScript API backend** for a massive user-facing web application. Must use Redis caching and microservices architecture.",
+      "project_type": [
+        "Backend Development",
+        "API Development",
+        "High Traffic System"
+      ],
+      "required_skills": ["Node.js", "TypeScript", "Microservices", "Redis", "Load Balancing"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 70
+    },
+    "client_engagement": {
+      "client_location": "San Jose, CA, US",
+      "client_reviews": 9,
+      "total_spent": 15000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0055",
+    "job_post_data": {
+      "title": "Full-Stack Dev for Custom FinTech Dashboard (Python/React)",
+      "url": "upwork.com/job/python-react-fintech-dashboard-5678",
+      "posted_date": "2025-11-26",
+      "description_snippet": "Build a secure **FinTech web dashboard** for B2B clients to manage fund transfers and viewing statements. **Python/Django** backend, **React** frontend. Requires experience with bank API integration.",
+      "project_type": [
+        "Custom Web App",
+        "FinTech",
+        "B2B Portal"
+      ],
+      "required_skills": ["Python", "Django", "React", "Bank APIs (Plaid, Yodlee)", "Security"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 18000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 2,
+      "total_spent": 500,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 day ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0056",
+    "job_post_data": {
+      "title": "Flutter Developer for Real Estate AR App",
+      "url": "upwork.com/job/flutter-real-estate-ar-4456",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop a **Flutter mobile app** to display property layouts using **Augmented Reality** when scanning floor plans. Needs smooth camera integration and 3D overlay.",
+      "project_type": [
+        "Mobile App Development",
+        "Augmented Reality (AR)",
+        "Real Estate Tech"
+      ],
+      "required_skills": ["Flutter", "ARKit/ARCore", "3D Modeling", "Dart", "Geospatial"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 9000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 7,
+      "total_spent": 8000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0057",
+    "job_post_data": {
+      "title": "ML Engineer for Personalized E-commerce Recommendation Engine",
+      "url": "upwork.com/job/ml-ecommerce-recommend-7788",
+      "posted_date": "2025-11-29",
+      "description_snippet": "Rebuild and deploy our **e-commerce recommendation engine** using collaborative filtering and deep learning. Goal is to increase AOV by 15%. High visibility project.",
+      "project_type": [
+        "AI/ML System",
+        "E-commerce",
+        "Recommendation Engine"
+      ],
+      "required_skills": ["Python", "TensorFlow", "Deep Learning", "Collaborative Filtering", "AWS SageMaker"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 72
+    },
+    "client_engagement": {
+      "client_location": "Berlin, Germany",
+      "client_reviews": 12,
+      "total_spent": 95000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "3 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0058",
+    "job_post_data": {
+      "title": "Full-Stack Developer for Manufacturing Maintenance Portal",
+      "url": "upwork.com/job/manufacturing-maintenance-4556",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Develop an **internal maintenance request web portal** for our manufacturing floor. Needs form submission, workflow management, and email notifications.",
+      "project_type": [
+        "Custom Web App",
+        "Internal Tool Development",
+        "Manufacturing Tech"
+      ],
+      "required_skills": ["MERN Stack", "Tailwind CSS", "Workflow Automation", "API Design"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 7000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Shanghai, China",
+      "client_reviews": 40,
+      "total_spent": 320000,
+      "proposals_count": "15 to 20",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0059",
+    "job_post_data": {
+      "title": "Senior GoLang Developer for High-Throughput API Gateway",
+      "url": "upwork.com/job/golang-api-gateway-8800",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Design and implement a high-performance **API gateway** in **GoLang** to manage traffic and authentication for all microservices. Needs expertise in secure, high-throughput systems.",
+      "project_type": [
+        "Backend Development",
+        "API Development",
+        "High Traffic System"
+      ],
+      "required_skills": ["GoLang", "Microservices", "Kong/API Gateway", "Security", "Low Latency"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 80
+    },
+    "client_engagement": {
+      "client_location": "Singapore",
+      "client_reviews": 10,
+      "total_spent": 95000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0060",
+    "job_post_data": {
+      "title": "Flutter Developer for B2B Client Reporting App",
+      "url": "upwork.com/job/flutter-b2b-reporting-5011",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Build a secure **Flutter mobile app** for B2B clients to view their monthly performance reports and dashboards. Needs secure login (OAuth) and clear data visualization.",
+      "project_type": [
+        "Mobile App Development",
+        "B2B Portal",
+        "Data Visualization"
+      ],
+      "required_skills": ["Flutter", "Dart", "OAuth", "API Integration", "Chart Libraries"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 11000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "London, UK",
+      "client_reviews": 2,
+      "total_spent": 1500,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "1 day ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0061",
+    "job_post_data": {
+      "title": "React Developer for Complex Data Filtering UI",
+      "url": "upwork.com/job/react-data-filtering-9120",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Need a React expert to implement a highly interactive, complex **data filtering and searching UI** for a customer database. Requires performance optimization for large datasets.",
+      "project_type": [
+        "Web App",
+        "Data Visualization"
+      ],
+      "required_skills": ["React", "Redux", "Data Filtering", "Performance Optimization", "MUI/Ant Design"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 45
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 60,
+      "total_spent": 750000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "5 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0062",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Personalized EdTech Pathways",
+      "url": "upwork.com/job/ai-edtech-pathways-5099",
+      "posted_date": "2025-11-27",
+      "description_snippet": "Develop an **AI model** to create **personalized learning pathways** for students based on their strengths, weaknesses, and career goals. EdTech experience highly valued.",
+      "project_type": [
+        "AI/ML System",
+        "EdTech",
+        "Recommendation Engine"
+      ],
+      "required_skills": ["Python", "Machine Learning", "Educational Data Mining", "Scikit-learn", "API Deployment"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 14000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 7,
+      "total_spent": 12000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0063",
+    "job_post_data": {
+      "title": "Senior Ruby on Rails Developer for Legacy E-commerce Upgrade",
+      "url": "upwork.com/job/ror-ecommerce-upgrade-4411",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Upgrade a large **Ruby on Rails e-commerce application** from Rails 5 to Rails 7. Requires fixing deprecations, updating gems, and ensuring all tests pass. Requires deep RoR expertise.",
+      "project_type": [
+        "Web Development",
+        "E-commerce",
+        "Legacy Integration"
+      ],
+      "required_skills": ["Ruby on Rails", "RSpec", "PostgreSQL", "API Integration", "Testing"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 55
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 35,
+      "total_spent": 200000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "4 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0064",
+    "job_post_data": {
+      "title": "Full-Stack Dev for Custom Real Estate Investor Portal (Next.js)",
+      "url": "upwork.com/job/nextjs-real-estate-portal-8844",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a **secure investor portal** (web app) using **Next.js** for managing property investments, documents, and returns. Needs integration with financial APIs.",
+      "project_type": [
+        "Custom Web App",
+        "Real Estate Tech",
+        "FinTech"
+      ],
+      "required_skills": ["Next.js", "React", "TypeScript", "Node.js", "Financial APIs"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 13000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "San Francisco, CA, US",
+      "client_reviews": 4,
+      "total_spent": 8000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "15 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0065",
+    "job_post_data": {
+      "title": "Flutter Developer for B2B Sales Catalog Mobile App",
+      "url": "upwork.com/job/flutter-sales-catalog-6633",
+      "posted_date": "2025-11-29",
+      "description_snippet": "We need a **Flutter mobile app** for our sales team to showcase product catalogs offline. Needs high-resolution image caching and secure login.",
+      "project_type": [
+        "Mobile App Development",
+        "B2B Portal",
+        "Offline Sync"
+      ],
+      "required_skills": ["Flutter", "Dart", "Offline Storage", "Image Caching", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 35
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 16,
+      "total_spent": 40000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "2 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0066",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Advanced Voice Biometrics System",
+      "url": "upwork.com/job/ai-voice-biometrics-3123",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Seeking an **ML Engineer** specializing in **voice biometrics** for a secure authentication system. Requires expertise in speech recognition and deep learning models for verification.",
+      "project_type": [
+        "AI/ML System",
+        "Security Software",
+        "Deep Learning"
+      ],
+      "required_skills": ["Python", "Speech Recognition", "Deep Learning", "Biometrics", "API Development"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 17000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 1,
+      "total_spent": 100,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0067",
+    "job_post_data": {
+      "title": "React Front-end Developer for Customer Support Portal",
+      "url": "upwork.com/job/react-customer-support-6789",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Develop the front-end of a new **customer support web portal** using **React**. Needs a ticketing system UI, knowledge base search, and complex form submission.",
+      "project_type": [
+        "Custom Web App",
+        "UX/UI Focus"
+      ],
+      "required_skills": ["React", "Redux", "Material-UI", "Formik", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 40
+    },
+    "client_engagement": {
+      "client_location": "Chicago, IL, US",
+      "client_reviews": 55,
+      "total_spent": 250000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "2 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0068",
+    "job_post_data": {
+      "title": "Native Android Developer for Logistics Fleet Management",
+      "url": "upwork.com/job/android-fleet-management-2200",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a dedicated **Native Android app** for fleet drivers. Features include GPS tracking, route display, and secure communication with the dispatch center.",
+      "project_type": [
+        "Mobile App Development",
+        "Logistics Tech",
+        "Geospatial"
+      ],
+      "required_skills": ["Kotlin", "Android SDK", "Google Maps API", "Geolocation", "Background Services"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 10000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Dubai, UAE",
+      "client_reviews": 18,
+      "total_spent": 80000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "15 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0069",
+    "job_post_data": {
+      "title": "Python Developer for Automated Data Scraping and Cleaning",
+      "url": "upwork.com/job/python-data-scraping-3401",
+      "posted_date": "2025-11-30",
+      "description_snippet": "Develop a **Python script** using libraries like BeautifulSoup/Scrapy to scrape data from 10 public websites, clean the data, and load it into a PostgreSQL database. Must handle proxies and rotation.",
+      "project_type": [
+        "Backend Development",
+        "Automation"
+      ],
+      "required_skills": ["Python", "Scrapy/BeautifulSoup", "Data Cleaning", "PostgreSQL", "Proxy Management"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 3500,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Miami, FL, US",
+      "client_reviews": 5,
+      "total_spent": 2500,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0070",
+    "job_post_data": {
+      "title": "Senior Blockchain Developer for Tokenized Real Estate Platform",
+      "url": "upwork.com/job/blockchain-real-estate-8890",
+      "posted_date": "2025-11-25",
+      "description_snippet": "Seeking a senior **Blockchain developer** to build a tokenization platform for real estate assets. Requires advanced knowledge of ERC-20, compliance, and multi-sig wallets.",
+      "project_type": [
+        "Blockchain Development",
+        "Real Estate Tech",
+        "FinTech"
+      ],
+      "required_skills": ["Solidity", "Smart Contracts", "ERC-20", "Security Audit", "DeFi"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 30000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 0,
+      "total_spent": 0,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "2 days ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0071",
+    "job_post_data": {
+      "title": "Angular Developer for Healthcare EMR Integration Portal",
+      "url": "upwork.com/job/angular-emr-portal-4321",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Develop a secure **Angular web portal** for physicians to view patient data pulled from various EMR/EHR systems. Must be **HIPAA compliant** and focus on speed.",
+      "project_type": [
+        "Custom Web App",
+        "Health Tech",
+        "Compliance Software"
+      ],
+      "required_skills": ["Angular", "TypeScript", "NgRx", "HIPAA Compliance", "REST API"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 55
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 15,
+      "total_spent": 140000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0072",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Time-Series Weather Forecasting Model",
+      "url": "upwork.com/job/ai-weather-forecasting-9090",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build an advanced **time-series ML model** for hyper-local **weather forecasting**. Requires knowledge of atmospheric data analysis and real-time data ingestion.",
+      "project_type": [
+        "AI/ML System",
+        "Data Modeling"
+      ],
+      "required_skills": ["Python", "Time Series Analysis", "Deep Learning", "TensorFlow", "API Development"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 11000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "San Francisco, CA, US",
+      "client_reviews": 3,
+      "total_spent": 5000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "5 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0073",
+    "job_post_data": {
+      "title": "Full-Stack Developer for Educational Quiz Builder (SaaS)",
+      "url": "upwork.com/job/edtech-quiz-builder-4456",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Develop a full-featured, user-friendly **quiz builder web application** (SaaS) for teachers. Must include drag-and-drop interface, question bank, and export functions.",
+      "project_type": [
+        "Custom Web App",
+        "SaaS Platform",
+        "EdTech"
+      ],
+      "required_skills": ["React/Vue", "Node.js/Django", "SaaS Development", "UI/UX", "Payment Integration"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 16000,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 25,
+      "total_spent": 180000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0074",
+    "job_post_data": {
+      "title": "Native iOS Developer for Secure Photo Vault App",
+      "url": "upwork.com/job/ios-secure-photo-vault-1145",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a **Native iOS mobile app** for securely storing private photos and documents. Requires Touch ID/Face ID authentication and strong local encryption.",
+      "project_type": [
+        "Mobile App Development",
+        "Security Software"
+      ],
+      "required_skills": ["Swift", "Local Encryption", "Biometrics (Face ID)", "Secure Storage", "UI/UX"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 6500,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "London, UK",
+      "client_reviews": 4,
+      "total_spent": 1200,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0075",
+    "job_post_data": {
+      "title": "Senior NodeJS Developer for Low-Latency FinTech API",
+      "url": "upwork.com/job/nodejs-low-latency-fintech-3987",
+      "posted_date": "2025-11-27",
+      "description_snippet": "Optimize an existing **Node.js/Express API** to achieve **sub-10ms latency** for high-volume financial data delivery. Requires strong performance tuning skills.",
+      "project_type": [
+        "Backend Development",
+        "FinTech",
+        "Low Latency"
+      ],
+      "required_skills": ["Node.js", "Express", "Performance Optimization", "Caching (Redis)", "Concurrency"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 85
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 6,
+      "total_spent": 75000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 day ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0076",
+    "job_post_data": {
+      "title": "Machine Learning Engineer for Automated Resume Screening",
+      "url": "upwork.com/job/ml-resume-screening-6540",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop an **AI/ML system** to automatically score and rank resumes for specific job descriptions. Requires strong **NLP** skills and experience with structured/unstructured data.",
+      "project_type": [
+        "AI/ML System",
+        "HR Tech",
+        "NLP"
+      ],
+      "required_skills": ["Python", "NLP", "Text Preprocessing", "Classification Models", "HR Tech"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 9000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Atlanta, GA, US",
+      "client_reviews": 10,
+      "total_spent": 15000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0077",
+    "job_post_data": {
+      "title": "Full-Stack Developer for Multi-Vendor E-commerce Platform (MERN)",
+      "url": "upwork.com/job/multi-vendor-ecommerce-mern-2287",
+      "posted_date": "2025-11-29",
+      "description_snippet": "Build a complete **multi-vendor e-commerce marketplace** (web app) from scratch using the **MERN stack**. Key features: vendor dashboards, commissions, and complex search filters.",
+      "project_type": [
+        "Custom Web App",
+        "E-commerce Platform",
+        "SaaS Platform"
+      ],
+      "required_skills": ["MERN Stack", "Stripe API", "Redux", "E-commerce Architecture", "Search Indexing"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 25000,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Paris, France",
+      "client_reviews": 5,
+      "total_spent": 5000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0078",
+    "job_post_data": {
+      "title": "React Native Developer for Construction Site Reporting App",
+      "url": "upwork.com/job/react-native-construction-5670",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Develop a **React Native app** for construction foremen to log daily progress, safety incidents, and photo documentation. Must handle large file uploads and offline sync.",
+      "project_type": [
+        "Mobile App Development",
+        "Construction Tech",
+        "Offline Sync"
+      ],
+      "required_skills": ["React Native", "Offline Storage", "Photo Upload", "Geolocation", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 45
+    },
+    "client_engagement": {
+      "client_location": "Dallas, TX, US",
+      "client_reviews": 20,
+      "total_spent": 60000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "30 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0079",
+    "job_post_data": {
+      "title": "Senior DevOps Engineer for Azure Cloud Migration",
+      "url": "upwork.com/job/devops-azure-migration-9099",
+      "posted_date": "2025-11-26",
+      "description_snippet": "Migrate our existing PHP monolith to **Azure cloud** using **Kubernetes (AKS)**. Requires writing Terraform scripts, setting up CI/CD with Azure DevOps, and ensuring zero downtime.",
+      "project_type": [
+        "Web App Infrastructure",
+        "DevOps",
+        "Cloud Migration"
+      ],
+      "required_skills": ["Azure", "Kubernetes (AKS)", "Terraform", "Azure DevOps", "CI/CD"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 12000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Amsterdam, Netherlands",
+      "client_reviews": 15,
+      "total_spent": 150000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "2 days ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0080",
+    "job_post_data": {
+      "title": "NLP Engineer for Semantic Search Engine (Internal Tool)",
+      "url": "upwork.com/job/nlp-semantic-search-5544",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a **semantic search engine** for our internal document repository. Must use modern **NLP models** (e.g., embeddings) to improve search relevance beyond keyword matching.",
+      "project_type": [
+        "AI/ML System",
+        "NLP",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["Python", "NLP", "Vector Databases", "Embeddings", "Elasticsearch"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 60
+    },
+    "client_engagement": {
+      "client_location": "Washington, D.C., US",
+      "client_reviews": 1,
+      "total_spent": 1000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0081",
+    "job_post_data": {
+      "title": "Full-Stack TypeScript Developer for Custom B2B Marketing Portal",
+      "url": "upwork.com/job/typescript-b2b-marketing-9922",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Develop a dedicated **B2B marketing assets portal** (web app) where clients can download brand materials, case studies, and localized content. Needs secure login and analytics.",
+      "project_type": [
+        "Custom Web App",
+        "B2B Portal"
+      ],
+      "required_skills": ["Next.js", "TypeScript", "Node.js", "Contentful/CMS", "Security"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 15000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Sydney, Australia",
+      "client_reviews": 18,
+      "total_spent": 85000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0082",
+    "job_post_data": {
+      "title": "Mobile Developer (Native) for Biometric Banking App Feature",
+      "url": "upwork.com/job/native-biometric-banking-6780",
+      "posted_date": "2025-11-27",
+      "description_snippet": "Integrate **Face ID/Touch ID biometrics** into our existing Native iOS/Android banking application login flow. Must meet strict FinTech security and compliance standards.",
+      "project_type": [
+        "Mobile App Development",
+        "FinTech",
+        "Security Software"
+      ],
+      "required_skills": ["Swift/Kotlin", "Biometrics API", "Secure Storage", "FinTech Security", "Compliance"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 6000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Zurich, Switzerland",
+      "client_reviews": 50,
+      "total_spent": 400000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "2 days ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0083",
+    "job_post_data": {
+      "title": "Flutter Developer for E-commerce Product Scanner App",
+      "url": "upwork.com/job/flutter-ecommerce-scanner-4410",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a fast **Flutter mobile app** that uses the camera to **scan barcodes** or QR codes, look up the product in our database, and add it to a cart. E-commerce focused.",
+      "project_type": [
+        "Mobile App Development",
+        "E-commerce",
+        "API Integration"
+      ],
+      "required_skills": ["Flutter", "Barcode Scanning", "Dart", "Camera API", "REST API"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 4000,
+      "duration": "Less than 1 month",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Paris, France",
+      "client_reviews": 8,
+      "total_spent": 12000,
+      "proposals_count": "50+",
+      "last_viewed_by_client": "5 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0084",
+    "job_post_data": {
+      "title": "Senior Vue.js Developer for Custom CRM Rebuild",
+      "url": "upwork.com/job/vuejs-custom-crm-9876",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Rebuild the front-end of our internal **CRM system** using **Vue.js** and Vuex. Focus on performance, state management, and complex data forms. Must be highly scalable.",
+      "project_type": [
+        "Custom Web App",
+        "Internal Tool Development",
+        "SaaS Platform"
+      ],
+      "required_skills": ["Vue.js", "Vuex", "TypeScript", "Performance Optimization", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 50
+    },
+    "client_engagement": {
+      "client_location": "Toronto, Canada",
+      "client_reviews": 25,
+      "total_spent": 250000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "3 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0085",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Time-Series Stock Prediction Model",
+      "url": "upwork.com/job/ai-stock-prediction-1199",
+      "posted_date": "2025-11-29",
+      "description_snippet": "Develop and backtest an **AI/ML model** for high-frequency stock price prediction using advanced **time-series analysis** and financial indicators. **FinTech** experience is mandatory.",
+      "project_type": [
+        "AI/ML System",
+        "FinTech",
+        "Data Modeling"
+      ],
+      "required_skills": ["Python", "Time Series Analysis", "Deep Learning", "Financial Data", "Backtesting"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 20000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 5,
+      "total_spent": 40000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 day ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0086",
+    "job_post_data": {
+      "title": "Full-Stack Next.js Developer for High-Traffic Media Blog",
+      "url": "upwork.com/job/nextjs-media-blog-3345",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Rebuild our high-traffic **media blog** using **Next.js** for maximum SEO performance and loading speed. Must be integrated with a headless CMS (Contentful/Strapi).",
+      "project_type": [
+        "Web Development",
+        "High Traffic System",
+        "UX/UI Focus"
+      ],
+      "required_skills": ["Next.js", "React", "SEO Optimization", "Headless CMS", "Performance Tuning"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 7500,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Los Angeles, CA, US",
+      "client_reviews": 70,
+      "total_spent": 350000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0087",
+    "job_post_data": {
+      "title": "Native Android Developer for Healthcare Patient Scheduling App",
+      "url": "upwork.com/job/android-patient-scheduling-5090",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Develop a **Native Android mobile app** for patients to securely schedule appointments and view test results. Must be **HIPAA compliant** and secure.",
+      "project_type": [
+        "Mobile App Development",
+        "Health Tech",
+        "Compliance Software"
+      ],
+      "required_skills": ["Kotlin", "Android SDK", "HIPAA Compliance", "Secure Data", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 58
+    },
+    "client_engagement": {
+      "client_location": "Denver, CO, US",
+      "client_reviews": 10,
+      "total_spent": 30000,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0088",
+    "job_post_data": {
+      "title": "DevOps Engineer for Container Security Hardening",
+      "url": "upwork.com/job/devops-container-security-7650",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Need a DevOps expert to audit and harden the security configurations of our **Kubernetes clusters** and Docker containers. Focus on FinTech best practices.",
+      "project_type": [
+        "Web App Infrastructure",
+        "Security Software",
+        "DevOps"
+      ],
+      "required_skills": ["Kubernetes", "Docker", "Security Hardening", "FinTech Compliance", "Prometheus"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 9000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "London, UK",
+      "client_reviews": 12,
+      "total_spent": 95000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "5 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0089",
+    "job_post_data": {
+      "title": "Python Developer for Automated Stock Option Grant Tool",
+      "url": "upwork.com/job/python-stock-option-tool-5566",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build an **internal Python web application** to automate the creation and tracking of employee stock option grants and vesting schedules. Needs financial accuracy.",
+      "project_type": [
+        "Internal Tool Development",
+        "FinTech",
+        "Automation"
+      ],
+      "required_skills": ["Python", "Django/Flask", "Financial Modeling", "Database Design", "Security"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 48
+    },
+    "client_engagement": {
+      "client_location": "San Francisco, CA, US",
+      "client_reviews": 2,
+      "total_spent": 1500,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0090",
+    "job_post_data": {
+      "title": "UX/UI Designer for Mobile E-commerce Redesign",
+      "url": "upwork.com/job/mobile-ecommerce-ux-8001",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Complete **UX/UI overhaul** for our existing **e-commerce mobile application**. Focus on improving product discoverability, cart flow, and conversion rates. Deliverables: Figma files and design system updates.",
+      "project_type": [
+        "Mobile App Development",
+        "E-commerce",
+        "UX/UI Focus"
+      ],
+      "required_skills": ["Figma", "Mobile UX", "E-commerce Design", "User Research", "Prototyping"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 6000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Sydney, Australia",
+      "client_reviews": 30,
+      "total_spent": 90000,
+      "proposals_count": "15 to 20",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0091",
+    "job_post_data": {
+      "title": "Full-Stack Dev for Custom EdTech Gamified Platform",
+      "url": "upwork.com/job/fullstack-edtech-gamified-4400",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a **gamified educational platform** (web app) with leaderboards, points systems, and achievements to drive user engagement. **React** front-end, custom backend.",
+      "project_type": [
+        "Custom Web App",
+        "EdTech",
+        "Gamification"
+      ],
+      "required_skills": ["React", "Node.js", "Gamification Design", "Database Design", "API Development"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 14000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 1,
+      "total_spent": 100,
+      "proposals_count": "5 to 10",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0092",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Advanced Customer Churn Prediction",
+      "url": "upwork.com/job/ai-customer-churn-9009",
+      "posted_date": "2025-11-27",
+      "description_snippet": "Develop and deploy a high-accuracy **customer churn prediction model** for our subscription service. Requires strong time-series and classification model experience.",
+      "project_type": [
+        "AI/ML System",
+        "SaaS Platform",
+        "Data Modeling"
+      ],
+      "required_skills": ["Python", "Scikit-learn", "Classification Models", "Subscription Data", "API Deployment"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 65
+    },
+    "client_engagement": {
+      "client_location": "Dublin, Ireland",
+      "client_reviews": 5,
+      "total_spent": 8000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "1 day ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0093",
+    "job_post_data": {
+      "title": "React Native Developer for Warehouse Inventory Scanning",
+      "url": "upwork.com/job/react-native-warehouse-5567",
+      "posted_date": "2025-12-01",
+      "description_snippet": "Build a **React Native mobile app** for warehouse staff to quickly scan inventory, update stock levels, and track bin locations. Needs fast performance and offline capability.",
+      "project_type": [
+        "Mobile App Development",
+        "Internal Tool Development",
+        "Logistics Tech"
+      ],
+      "required_skills": ["React Native", "Barcode Scanning", "Offline Storage", "Redux", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 7000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Chicago, IL, US",
+      "client_reviews": 40,
+      "total_spent": 200000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "4 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0094",
+    "job_post_data": {
+      "title": "Senior Laravel/Vue.js Developer for B2B Portal",
+      "url": "upwork.com/job/laravel-vuejs-b2b-portal-3300",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop a new B2B client portal (web app) using a **Laravel backend** and **Vue.js frontend**. Features: custom invoice viewing, secure file sharing, and internal messaging.",
+      "project_type": [
+        "Custom Web App",
+        "B2B Portal"
+      ],
+      "required_skills": ["Laravel", "Vue.js", "PHP", "API Development", "Security"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 55
+    },
+    "client_engagement": {
+      "client_location": "Mexico City, Mexico",
+      "client_reviews": 2,
+      "total_spent": 1000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0095",
+    "job_post_data": {
+      "title": "AWS DevOps Engineer for IoT Data Pipeline",
+      "url": "upwork.com/job/aws-iot-devops-9911",
+      "posted_date": "2025-11-26",
+      "description_snippet": "Set up and manage the entire **AWS infrastructure** for ingesting and processing data from 10k+ **IoT devices**. Focus on Kinesis, Lambda, and cost optimization.",
+      "project_type": [
+        "Backend Development",
+        "IoT",
+        "DevOps"
+      ],
+      "required_skills": ["AWS Kinesis", "Lambda", "IoT Core", "CloudFormation", "Terraform"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 11000,
+      "duration": "1 to 3 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Seattle, WA, US",
+      "client_reviews": 15,
+      "total_spent": 120000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "2 days ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0096",
+    "job_post_data": {
+      "title": "Flutter Developer for Real Estate Agent CRM App",
+      "url": "upwork.com/job/flutter-real-estate-crm-4050",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Build a **Flutter mobile app** for real estate agents to manage leads, showings, and contact information. Needs offline capability and push notifications.",
+      "project_type": [
+        "Mobile App Development",
+        "Real Estate Tech",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["Flutter", "Dart", "Offline Storage", "Firebase/Push Notifications", "API Integration"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "3 to 6 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": 40
+    },
+    "client_engagement": {
+      "client_location": "Atlanta, GA, US",
+      "client_reviews": 5,
+      "total_spent": 5000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "10 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0097",
+    "job_post_data": {
+      "title": "AI/ML Engineer for Personalized Healthcare Treatment Plans",
+      "url": "upwork.com/job/ai-healthcare-treatment-5555",
+      "posted_date": "2025-11-28",
+      "description_snippet": "Develop an **AI model** to suggest personalized patient treatment plans based on genetic data, EHR records, and outcome history. Requires **HIPAA-compliant** development.",
+      "project_type": [
+        "AI/ML System",
+        "Health Tech",
+        "Data Modeling",
+        "HIPAA Compliance"
+      ],
+      "required_skills": ["Python", "TensorFlow", "EHR/EMR Integration", "HIPAA", "Personalization"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 22000,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Boston, MA, US",
+      "client_reviews": 10,
+      "total_spent": 80000,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "1 hour ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0098",
+    "job_post_data": {
+      "title": "Full-Stack Developer for FinTech Loyalty Program Platform",
+      "url": "upwork.com/job/fintech-loyalty-platform-2001",
+      "posted_date": "2025-12-02",
+      "description_snippet": "Build a new customer **loyalty program web platform** for a FinTech company. Needs gamification, points tracking, and secure integration with bank APIs.",
+      "project_type": [
+        "Custom Web App",
+        "FinTech",
+        "Gamification"
+      ],
+      "required_skills": ["MERN Stack", "Stripe API", "Gamification", "UX/UI", "Security"]
+    },
+    "project_details": {
+      "budget_type": "Hourly",
+      "fixed_budget": null,
+      "duration": "6+ months",
+      "experience_level": "Expert",
+      "client_hourly_rate": 60
+    },
+    "client_engagement": {
+      "client_location": "New York, NY, US",
+      "client_reviews": 25,
+      "total_spent": 300000,
+      "proposals_count": "10 to 15",
+      "last_viewed_by_client": "4 hours ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0099",
+    "job_post_data": {
+      "title": "Native iOS Developer for Logistics Route Manifest App",
+      "url": "upwork.com/job/ios-logistics-manifest-5000",
+      "posted_date": "2025-12-03",
+      "description_snippet": "Develop a dedicated **Native iOS app** for logistics supervisors to manage, edit, and export daily route manifests. Needs integration with Google Maps and offline data storage.",
+      "project_type": [
+        "Mobile App Development",
+        "Logistics Tech",
+        "Internal Tool Development"
+      ],
+      "required_skills": ["Swift", "iOS SDK", "Google Maps API", "Offline Storage", "Data Export"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 8000,
+      "duration": "1 to 3 months",
+      "experience_level": "Intermediate",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Houston, TX, US",
+      "client_reviews": 8,
+      "total_spent": 15000,
+      "proposals_count": "20 to 50",
+      "last_viewed_by_client": "5 minutes ago"
+    }
+  },
+  {
+    "job_id": "UPW_J0100",
+    "job_post_data": {
+      "title": "Blockchain/Solidity Developer for Secure Escrow Service",
+      "url": "upwork.com/job/blockchain-secure-escrow-9008",
+      "posted_date": "2025-11-26",
+      "description_snippet": "Seeking an expert to build a **secure, smart-contract based escrow service** for high-value B2B transactions. Requires formal verification and multi-signature wallet expertise.",
+      "project_type": [
+        "Blockchain Development",
+        "FinTech",
+        "Security Software"
+      ],
+      "required_skills": ["Solidity", "Smart Contracts", "Formal Verification", "Web3.js", "Security Audit"]
+    },
+    "project_details": {
+      "budget_type": "Fixed-Price",
+      "fixed_budget": 20000,
+      "duration": "3 to 6 months",
+      "experience_level": "Expert",
+      "client_hourly_rate": null
+    },
+    "client_engagement": {
+      "client_location": "Singapore",
+      "client_reviews": 1,
+      "total_spent": 500,
+      "proposals_count": "Less than 5",
+      "last_viewed_by_client": "2 days ago"
+    }
   }
 ]
