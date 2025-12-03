@@ -4,139 +4,813 @@
     "email": "yaqeejf@gmail.com",
     "subject": "Need a project quote",
     "message": "Seeking long-term full-stack developer.",
-    "company": "FitTrack Health"
+    "company": "FitTrack Health",
+    "received_date": "2025-11-28 10:35:00",
+    "tech_stack_preference": ["Full-Stack", "MERN/PERN"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 10:35:00"
   },
   {
     "name": "Hassan Taylor",
     "email": "hdiamkc@gmail.com",
     "subject": "Need a project quote",
     "message": "Want to rebuild our website using Next.js.",
-    "company": "BlueOcean Retail"
+    "company": "BlueOcean Retail",
+    "received_date": "2025-12-03 14:10:00",
+    "tech_stack_preference": ["Next.js", "React", "TypeScript"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Zara Hussain",
     "email": "leejobl@gmail.com",
     "subject": "Need a project quote",
     "message": "Want to rebuild our website using Next.js.",
-    "company": "DataFlow Inc"
+    "company": "DataFlow Inc",
+    "received_date": "2025-12-01 09:15:00",
+    "tech_stack_preference": ["Next.js", "CMS Integration"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-12-01 15:00:00"
   },
   {
     "name": "Michael Reed",
     "email": "vjcuxjt@gmail.com",
     "subject": "Need a project quote",
     "message": "Require a Flutter developer for MVP app.",
-    "company": "BlueOcean Retail"
+    "company": "BlueOcean Retail",
+    "received_date": "2025-12-03 16:22:00",
+    "tech_stack_preference": ["Flutter", "Dart", "MVP"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Michael Reed",
     "email": "tdturpd@gmail.com",
     "subject": "Need a project quote",
     "message": "Want to rebuild our website using Next.js.",
-    "company": "FlexLogistics"
+    "company": "FlexLogistics",
+    "received_date": "2025-11-27 11:40:00",
+    "tech_stack_preference": ["Next.js", "Migration"],
+    "lead_status": "Replied",
+    "last_reply_sent": "2025-11-28 11:00:00"
   },
   {
     "name": "Daniel Reed",
     "email": "hldwwbl@gmail.com",
     "subject": "Need a project quote",
     "message": "We need a React + Node dashboard for our logistics company.",
-    "company": "DataFlow Inc"
+    "company": "DataFlow Inc",
+    "received_date": "2025-12-02 10:55:00",
+    "tech_stack_preference": ["React", "Node.js", "Logistics"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-12-02 14:00:00"
   },
   {
     "name": "Zara Hussain",
     "email": "llqukhf@gmail.com",
     "subject": "Need a project quote",
     "message": "Looking for a mobile app for our restaurant chain.",
-    "company": "GreenLeaf Corp"
+    "company": "GreenLeaf Corp",
+    "received_date": "2025-12-03 09:30:00",
+    "tech_stack_preference": ["React Native", "Mobile App", "UX/UI"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Liam Smith",
     "email": "wfyxuav@gmail.com",
     "subject": "Need a project quote",
     "message": "Need an AI chatbot for customer support.",
-    "company": "FitTrack Health"
+    "company": "FitTrack Health",
+    "received_date": "2025-12-02 17:15:00",
+    "tech_stack_preference": ["AI/ML", "NLP", "Python"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Liam Smith",
     "email": "eeoimvt@gmail.com",
     "subject": "Need a project quote",
     "message": "Need automation for our sales pipeline.",
-    "company": "FlexLogistics"
+    "company": "FlexLogistics",
+    "received_date": "2025-11-26 09:45:00",
+    "tech_stack_preference": ["Python", "Automation", "API Integration"],
+    "lead_status": "Stale",
+    "last_reply_sent": "2025-11-26 12:00:00"
   },
   {
     "name": "Sara Ali",
     "email": "glkxuub@gmail.com",
     "subject": "Need a project quote",
     "message": "We need a React + Node dashboard for our logistics company.",
-    "company": "UrbanTech"
+    "company": "UrbanTech",
+    "received_date": "2025-12-03 11:50:00",
+    "tech_stack_preference": ["React", "Node.js", "Data Viz"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Emily Taylor",
     "email": "nlwrnvp@gmail.com",
     "subject": "Need a project quote",
     "message": "Looking for a mobile app for our restaurant chain.",
-    "company": "CloudWare"
+    "company": "CloudWare",
+    "received_date": "2025-11-29 13:05:00",
+    "tech_stack_preference": ["Flutter", "Mobile App", "POS Integration"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 16:30:00"
   },
   {
     "name": "Noah Khan",
     "email": "bdgdhyq@gmail.com",
     "subject": "Need a project quote",
     "message": "Seeking long-term full-stack developer.",
-    "company": "DataFlow Inc"
+    "company": "DataFlow Inc",
+    "received_date": "2025-12-03 15:33:00",
+    "tech_stack_preference": ["Full-Stack", "GoLang/Rust"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Ahmed Shah",
     "email": "updvsgs@gmail.com",
     "subject": "Need a project quote",
     "message": "We need a React + Node dashboard for our logistics company.",
-    "company": "UrbanTech"
+    "company": "UrbanTech",
+    "received_date": "2025-12-02 12:48:00",
+    "tech_stack_preference": ["React", "Node.js", "Geolocation"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Ahmed Ali",
     "email": "jquswqp@gmail.com",
     "subject": "Need a project quote",
     "message": "Want to rebuild our website using Next.js.",
-    "company": "BlueOcean Retail"
+    "company": "BlueOcean Retail",
+    "received_date": "2025-11-29 10:18:00",
+    "tech_stack_preference": ["Next.js", "E-commerce"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 12:00:00"
   },
   {
     "name": "Fatima Lin",
     "email": "dnnolyq@gmail.com",
     "subject": "Need a project quote",
     "message": "Want to rebuild our website using Next.js.",
-    "company": "BlueOcean Retail"
+    "company": "BlueOcean Retail",
+    "received_date": "2025-12-01 14:00:00",
+    "tech_stack_preference": ["Next.js", "UX/UI Focus"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Liam Brown",
     "email": "bpuwojr@gmail.com",
     "subject": "Need a project quote",
     "message": "Seeking long-term full-stack developer.",
-    "company": "NovaTech"
+    "company": "NovaTech",
+    "received_date": "2025-12-02 11:30:00",
+    "tech_stack_preference": ["Full-Stack", "Java/Spring"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Hassan Stewart",
     "email": "ncwlsam@gmail.com",
     "subject": "Need a project quote",
     "message": "We need a React + Node dashboard for our logistics company.",
-    "company": "CloudWare"
+    "company": "CloudWare",
+    "received_date": "2025-11-27 15:15:00",
+    "tech_stack_preference": ["React", "Node.js", "Logistics"],
+    "lead_status": "Replied",
+    "last_reply_sent": "2025-11-28 09:00:00"
   },
   {
     "name": "Amelia Smith",
     "email": "ulzgvjt@gmail.com",
     "subject": "Need a project quote",
     "message": "Seeking long-term full-stack developer.",
-    "company": "FitTrack Health"
+    "company": "FitTrack Health",
+    "received_date": "2025-12-03 10:00:00",
+    "tech_stack_preference": ["Full-Stack", "Python/Django"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
   },
   {
     "name": "Hassan Johnson",
     "email": "ihnnmfb@gmail.com",
     "subject": "Need a project quote",
     "message": "Looking for dedicated developer for SaaS product.",
-    "company": "DataFlow Inc"
+    "company": "DataFlow Inc",
+    "received_date": "2025-11-28 15:45:00",
+    "tech_stack_preference": ["SaaS", "Full-Stack", "Microservices"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 15:45:00"
   },
   {
     "name": "Olivia Johnson",
     "email": "dxuxidc@gmail.com",
     "subject": "Need a project quote",
     "message": "Need an AI chatbot for customer support.",
-    "company": "FitTrack Health"
+    "company": "FitTrack Health",
+    "received_date": "2025-11-26 14:20:00",
+    "tech_stack_preference": ["AI/ML", "NLP", "RAG"],
+    "lead_status": "Stale",
+    "last_reply_sent": "2025-11-27 10:00:00"
+  },
+  {
+    "name": "Ethan Cole",
+    "email": "xetawmn@gmail.com",
+    "subject": "Urgent: Custom API development needed",
+    "message": "We need a high-performance REST API built in GoLang to serve data for a new FinTech application. Low latency is critical.",
+    "company": "ApexFinTech",
+    "received_date": "2025-12-03 08:15:00",
+    "tech_stack_preference": ["GoLang", "API Development", "Low Latency"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Chloe Davis",
+    "email": "yklrbzg@gmail.com",
+    "subject": "Project Inquiry: E-commerce Loyalty App",
+    "message": "Looking for a React Native developer to build a customer loyalty mobile application that integrates with Shopify.",
+    "company": "ShopSmart Co.",
+    "received_date": "2025-12-02 14:50:00",
+    "tech_stack_preference": ["React Native", "E-commerce", "Shopify API"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Ryan Becker",
+    "email": "jhtfgcv@gmail.com",
+    "subject": "Quote for migration to AWS",
+    "message": "Need DevOps expertise to migrate our legacy web app to AWS and set up a CI/CD pipeline.",
+    "company": "Legacy Systems",
+    "received_date": "2025-11-30 11:20:00",
+    "tech_stack_preference": ["DevOps", "AWS", "Migration"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-12-01 10:00:00"
+  },
+  {
+    "name": "Isabelle Chen",
+    "email": "aweqsdr@gmail.com",
+    "subject": "Looking for Blockchain developer",
+    "message": "Seeking a developer experienced in Solidity for an ERC-20 token deployment and smart contract audit.",
+    "company": "CryptoEdge Inc",
+    "received_date": "2025-12-03 17:30:00",
+    "tech_stack_preference": ["Blockchain", "Solidity", "Smart Contracts"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Jordan Wong",
+    "email": "poiuylk@gmail.com",
+    "subject": "Need Python developer for ML project",
+    "message": "We need an ML engineer to build a time-series model for predicting commodity prices.",
+    "company": "GlobalTrade Ltd",
+    "received_date": "2025-12-01 16:45:00",
+    "tech_stack_preference": ["AI/ML", "Python", "Time-Series"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Phoebe King",
+    "email": "mnbvcxza@gmail.com",
+    "subject": "Quote for internal tool development",
+    "message": "Develop a simple internal web tool for tracking factory maintenance requests.",
+    "company": "AutoProd Mfg",
+    "received_date": "2025-11-29 08:20:00",
+    "tech_stack_preference": ["Vue.js", "Internal Tool", "PHP/Laravel"],
+    "lead_status": "Proposal Sent",
+    "last_reply_sent": "2025-12-01 10:10:00"
+  },
+  {
+    "name": "Leo Martinez",
+    "email": "qwertypo@gmail.com",
+    "subject": "Mobile App MVP for Education Platform",
+    "message": "Require a dedicated developer to build an MVP mobile app for student quiz taking.",
+    "company": "EduFuture",
+    "received_date": "2025-12-03 12:55:00",
+    "tech_stack_preference": ["React Native", "EdTech", "MVP"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Zara Khan",
+    "email": "asdfghjk@gmail.com",
+    "subject": "Long-term contract for Python expert",
+    "message": "Seeking a senior Python developer for long-term API maintenance and feature development.",
+    "company": "API Stream Ltd",
+    "received_date": "2025-11-27 13:40:00",
+    "tech_stack_preference": ["Python", "API Development", "Django/FastAPI"],
+    "lead_status": "Replied",
+    "last_reply_sent": "2025-11-28 14:00:00"
+  },
+  {
+    "name": "Victor Rossi",
+    "email": "lkjhgfdsa@gmail.com",
+    "subject": "E-commerce platform rebuild",
+    "message": "Our Magento site is slow. We want to rebuild using a headless platform (Next.js/Shopify).",
+    "company": "RetailMax Inc",
+    "received_date": "2025-12-02 09:00:00",
+    "tech_stack_preference": ["Next.js", "Headless E-commerce", "Migration"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Nina Patel",
+    "email": "zxcvbnm@gmail.com",
+    "subject": "Quote for AR mobile app",
+    "message": "Develop an iOS app with ARKit for furniture visualization in real time.",
+    "company": "HomeDecor AR",
+    "received_date": "2025-12-03 10:15:00",
+    "tech_stack_preference": ["Mobile App", "AR/VR", "iOS/Swift"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Oliver Quinn",
+    "email": "edcrfvtbgy@gmail.com",
+    "subject": "Need help with FinTech compliance",
+    "message": "We need an engineer to build a custom tool for automated KYC/AML checks.",
+    "company": "SecureWallet",
+    "received_date": "2025-11-28 13:00:00",
+    "tech_stack_preference": ["FinTech", "Compliance Software", "Automation"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 11:00:00"
+  },
+  {
+    "name": "Mia Wong",
+    "email": "qazwsxedc@gmail.com",
+    "subject": "Dashboard for logistics data",
+    "message": "We need a data visualization dashboard for tracking shipping containers globally (React/D3.js).",
+    "company": "GlobalShip Co.",
+    "received_date": "2025-12-02 15:05:00",
+    "tech_stack_preference": ["React", "Data Viz", "Logistics"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Samira Khan",
+    "email": "rfvtgbyhn@gmail.com",
+    "subject": "Need help with AI recommendation engine",
+    "message": "Our current product recommendation engine is inaccurate. Need an ML expert for optimization.",
+    "company": "MarketPlace X",
+    "received_date": "2025-12-03 13:40:00",
+    "tech_stack_preference": ["AI/ML", "Recommendation Engine", "E-commerce"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "George Brown",
+    "email": "wsxzaq@gmail.com",
+    "subject": "Seeking Java developer for backend",
+    "message": "We are looking for a senior Java/Spring Boot developer for API development and maintenance.",
+    "company": "Enterprise Logic",
+    "received_date": "2025-11-29 15:00:00",
+    "tech_stack_preference": ["Java", "Spring Boot", "Backend Development"],
+    "lead_status": "Proposal Sent",
+    "last_reply_sent": "2025-12-01 11:00:00"
+  },
+  {
+    "name": "Helena Liu",
+    "email": "ploikmju@gmail.com",
+    "subject": "Quote for Flutter mobile app",
+    "message": "Need a team to build a complete B2B client communication app in Flutter for iOS and Android.",
+    "company": "B2B Connect",
+    "received_date": "2025-12-01 11:45:00",
+    "tech_stack_preference": ["Flutter", "Mobile App", "B2B Portal"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Kenji Tanaka",
+    "email": "tgbnhyuj@gmail.com",
+    "subject": "Inquiry about high-traffic website optimization",
+    "message": "Our popular news site needs a major performance audit and optimization to handle peak traffic.",
+    "company": "NewsStream Media",
+    "received_date": "2025-12-03 09:00:00",
+    "tech_stack_preference": ["Web Development", "Performance Optimization", "High Traffic System"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Maria Lopez",
+    "email": "rfvbhgt@gmail.com",
+    "subject": "Custom reporting tool for HR",
+    "message": "Looking for a full-stack developer to build an internal tool for custom HR metrics reporting.",
+    "company": "PeopleFirst HR",
+    "received_date": "2025-12-02 10:00:00",
+    "tech_stack_preference": ["Python/Django", "HR Tech", "Internal Tool"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Alex Smith",
+    "email": "abcxyz@gmail.com",
+    "subject": "Next.js migration quote",
+    "message": "We need to migrate our corporate website from WordPress to Next.js for better SEO.",
+    "company": "CorpSolutions",
+    "received_date": "2025-11-27 09:00:00",
+    "tech_stack_preference": ["Next.js", "Migration", "SEO"],
+    "lead_status": "Replied",
+    "last_reply_sent": "2025-11-27 14:30:00"
+  },
+  {
+    "name": "Cindy Rose",
+    "email": "defghi@gmail.com",
+    "subject": "Help with AI image classification",
+    "message": "Need an ML engineer to build a model for classifying medical images (Computer Vision).",
+    "company": "MedVision AI",
+    "received_date": "2025-12-03 11:00:00",
+    "tech_stack_preference": ["AI/ML", "Computer Vision", "Health Tech"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "David Kim",
+    "email": "jklmno@gmail.com",
+    "subject": "Long-term contract for Java/Kotlin",
+    "message": "We require a dedicated developer to work on our existing Android application backend.",
+    "company": "TravelMate App",
+    "received_date": "2025-12-01 10:30:00",
+    "tech_stack_preference": ["Java/Kotlin", "Backend Development", "Mobile App"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Emily White",
+    "email": "pqrstu@gmail.com",
+    "subject": "Quote for secure internal portal",
+    "message": "Build a web portal for sensitive document management with two-factor authentication.",
+    "company": "SecureDocs Ltd",
+    "received_date": "2025-11-28 14:40:00",
+    "tech_stack_preference": ["Custom Web App", "Security", "Authentication"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 09:30:00"
+  },
+  {
+    "name": "Frank Green",
+    "email": "vwxyza@gmail.com",
+    "subject": "Need a specialist in GoLang",
+    "message": "Seeking a Go developer to optimize microservices for speed and concurrency.",
+    "company": "TradeStream HFT",
+    "received_date": "2025-12-03 15:00:00",
+    "tech_stack_preference": ["GoLang", "Microservices", "Low Latency"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Grace Hall",
+    "email": "bcdfgh@gmail.com",
+    "subject": "Mobile app for event management MVP",
+    "message": "Develop a simple mobile app for conference attendees (scheduling, maps, notifications).",
+    "company": "EventFlow Co",
+    "received_date": "2025-12-02 11:00:00",
+    "tech_stack_preference": ["React Native", "MVP", "Mobile App"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Henry Lee",
+    "email": "jklmnp@gmail.com",
+    "subject": "Urgent: Fix existing Python script",
+    "message": "Our internal data scraping script in Python is broken and needs immediate maintenance.",
+    "company": "DataHarvest Inc",
+    "received_date": "2025-12-03 08:30:00",
+    "tech_stack_preference": ["Python", "Web Scraping", "Maintenance"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Ivy Jones",
+    "email": "qrstuv@gmail.com",
+    "subject": "Looking for Next.js developer for SaaS",
+    "message": "Dedicated full-stack developer needed to build out new features for our existing B2B SaaS platform.",
+    "company": "B2B Dynamics",
+    "received_date": "2025-11-30 16:00:00",
+    "tech_stack_preference": ["Next.js", "SaaS", "Full-Stack"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-12-01 14:00:00"
+  },
+  {
+    "name": "Jack Evans",
+    "email": "wxyzab@gmail.com",
+    "subject": "Quote for machine learning consulting",
+    "message": "Need expert consultation and implementation for a supply chain forecasting model.",
+    "company": "SupplyChain X",
+    "received_date": "2025-12-02 16:30:00",
+    "tech_stack_preference": ["AI/ML", "Forecasting", "Supply Chain"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Kate Bell",
+    "email": "cdefgh@gmail.com",
+    "subject": "Need help with API integration",
+    "message": "We need to integrate three external marketing APIs into our customer dashboard.",
+    "company": "MarketingPro",
+    "received_date": "2025-12-01 13:20:00",
+    "tech_stack_preference": ["API Integration", "React", "Data Viz"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Leo Cruz",
+    "email": "ijklmn@gmail.com",
+    "subject": "Quote for education course platform",
+    "message": "Building a comprehensive online course platform for vocational training (web app).",
+    "company": "Vocational Edu",
+    "received_date": "2025-11-26 10:30:00",
+    "tech_stack_preference": ["Web App", "EdTech", "LMS"],
+    "lead_status": "Stale",
+    "last_reply_sent": "2025-11-27 09:00:00"
+  },
+  {
+    "name": "Molly Dunn",
+    "email": "opqrst@gmail.com",
+    "subject": "Native iOS app for car sharing",
+    "message": "Develop a high-security Native iOS app for peer-to-peer car sharing and booking.",
+    "company": "DriveShare Co",
+    "received_date": "2025-12-03 11:30:00",
+    "tech_stack_preference": ["iOS/Swift", "Mobile App", "Security"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Nadia Ray",
+    "email": "uvwxyz@gmail.com",
+    "subject": "Looking for full-stack C#/.NET developer",
+    "message": "Seeking long-term staff augmentation for a full-stack C#/.NET project on Azure.",
+    "company": "AzureSoft Dev",
+    "received_date": "2025-11-29 12:15:00",
+    "tech_stack_preference": ["C#/.NET", "Full-Stack", "Azure"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-30 11:15:00"
+  },
+  {
+    "name": "Oscar Perez",
+    "email": "fedcba@gmail.com",
+    "subject": "Help migrating database to PostgreSQL",
+    "message": "Need expertise to migrate our large MySQL database to PostgreSQL with zero downtime.",
+    "company": "DataShift Inc",
+    "received_date": "2025-12-02 09:30:00",
+    "tech_stack_preference": ["PostgreSQL", "Migration", "Backend Development"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Paulina Soto",
+    "email": "hgfedc@gmail.com",
+    "subject": "AI/ML for personalized advertising",
+    "message": "Develop an ML model for targeted, personalized advertising content based on user history.",
+    "company": "AdTech Pro",
+    "received_date": "2025-12-03 14:30:00",
+    "tech_stack_preference": ["AI/ML", "Recommendation Engine", "AdTech"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Quentin Vo",
+    "email": "ijklsr@gmail.com",
+    "subject": "Quote for industrial IoT dashboard",
+    "message": "Need a React dashboard to visualize real-time data from factory IoT sensors.",
+    "company": "Factory Automation",
+    "received_date": "2025-11-27 10:00:00",
+    "tech_stack_preference": ["React", "IoT", "Data Viz"],
+    "lead_status": "Replied",
+    "last_reply_sent": "2025-11-28 10:30:00"
+  },
+  {
+    "name": "Rachel West",
+    "email": "mnopqwe@gmail.com",
+    "subject": "Looking for dedicated Flutter developer",
+    "message": "Dedicated Flutter developer needed for ongoing feature development on our existing app.",
+    "company": "Fitness Flow",
+    "received_date": "2025-12-01 16:00:00",
+    "tech_stack_preference": ["Flutter", "Mobile App", "Health Tech"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Simon Yim",
+    "email": "rstuvby@gmail.com",
+    "subject": "E-commerce checkout optimization needed",
+    "message": "We need help optimizing our e-commerce checkout flow to reduce cart abandonment.",
+    "company": "Global Retailers",
+    "received_date": "2025-11-26 11:00:00",
+    "tech_stack_preference": ["E-commerce", "UX/UI Focus", "Optimization"],
+    "lead_status": "Stale",
+    "last_reply_sent": "2025-11-27 11:00:00"
+  },
+  {
+    "name": "Tina Zhu",
+    "email": "wxyzbza@gmail.com",
+    "subject": "Quote for custom insurance application",
+    "message": "Build a secure web application for processing insurance claims and document uploads.",
+    "company": "SecureClaim Ins.",
+    "received_date": "2025-12-03 16:50:00",
+    "tech_stack_preference": ["Custom Web App", "Security", "FinTech"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Umair Khan",
+    "email": "abczde@gmail.com",
+    "subject": "Need full-stack developer for SaaS feature",
+    "message": "Seeking full-stack developer (MERN) to build a new multi-tenant reporting feature for our SaaS product.",
+    "company": "SaaS Dashboards",
+    "received_date": "2025-11-29 10:00:00",
+    "tech_stack_preference": ["Full-Stack", "SaaS", "MERN"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-30 10:00:00"
+  },
+  {
+    "name": "Vivian Liu",
+    "email": "fghijc@gmail.com",
+    "subject": "Looking for assistance with AI consulting",
+    "message": "We need help defining the scope and feasibility of an AI project for internal process automation.",
+    "company": "Process Automation",
+    "received_date": "2025-12-02 15:30:00",
+    "tech_stack_preference": ["AI/ML", "Consulting", "Automation"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Walter Chen",
+    "email": "klmnopd@gmail.com",
+    "subject": "Quote for mobile app localization",
+    "message": "Need a developer to handle localization and internationalization for our existing mobile app (iOS/Android).",
+    "company": "Global App Co",
+    "received_date": "2025-12-03 09:10:00",
+    "tech_stack_preference": ["Mobile App", "Localization", "iOS/Android"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Xena Ray",
+    "email": "qrstuvm@gmail.com",
+    "subject": "Urgent JavaScript legacy code modernization",
+    "message": "Our core system runs on legacy JavaScript and needs a complete modernization to Vue.js or React.",
+    "company": "Legacy Tech",
+    "received_date": "2025-11-26 17:00:00",
+    "tech_stack_preference": ["Migration", "Vue.js/React", "Legacy Integration"],
+    "lead_status": "Stale",
+    "last_reply_sent": "2025-11-27 15:00:00"
+  },
+  {
+    "name": "Yara Hossain",
+    "email": "wxyzbne@gmail.com",
+    "subject": "Dedicated developer for FinTech",
+    "message": "Seeking dedicated full-stack developer (Node.js/React) for core feature development in our FinTech platform.",
+    "company": "FinCore Systems",
+    "received_date": "2025-12-01 11:10:00",
+    "tech_stack_preference": ["Full-Stack", "FinTech", "Node.js/React"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-12-02 11:10:00"
+  },
+  {
+    "name": "Zack Lim",
+    "email": "defghr@gmail.com",
+    "subject": "Quote for B2B API development",
+    "message": "Need a secure, scalable API built for B2B client data access. Python/Django preferred.",
+    "company": "B2B Solutions",
+    "received_date": "2025-12-03 10:45:00",
+    "tech_stack_preference": ["API Development", "Python/Django", "Backend Development"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Amy Fisher",
+    "email": "ijklmt@gmail.com",
+    "subject": "Need help with e-commerce security",
+    "message": "Seeking expert audit and security hardening for our existing high-traffic e-commerce platform.",
+    "company": "SecureBuy Retail",
+    "received_date": "2025-11-28 11:55:00",
+    "tech_stack_preference": ["E-commerce", "Security Audit", "Web Development"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 14:00:00"
+  },
+  {
+    "name": "Ben Carter",
+    "email": "opqrsv@gmail.com",
+    "subject": "Quote for custom EdTech quizzing tool",
+    "message": "Develop a specialized web-based quizzing tool for student assessments, integrated with Moodle.",
+    "company": "AssessRight Edu",
+    "received_date": "2025-12-02 14:00:00",
+    "tech_stack_preference": ["Custom Web App", "EdTech", "LMS Integration"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Cathy Dunn",
+    "email": "stuvwx@gmail.com",
+    "subject": "Looking for support for Android app",
+    "message": "Our Native Android app needs a team to handle bug fixes and ongoing maintenance (Kotlin).",
+    "company": "Local Services App",
+    "received_date": "2025-11-26 16:30:00",
+    "tech_stack_preference": ["Android/Kotlin", "Mobile App", "Maintenance"],
+    "lead_status": "Stale",
+    "last_reply_sent": "2025-11-27 16:30:00"
+  },
+  {
+    "name": "Drew Evans",
+    "email": "yzabcd@gmail.com",
+    "subject": "AI/ML consulting for manufacturing",
+    "message": "Need consultation to implement AI for predictive maintenance in our factory (IoT data).",
+    "company": "ManuTech Corp",
+    "received_date": "2025-12-03 12:10:00",
+    "tech_stack_preference": ["AI/ML", "IoT", "Manufacturing Tech"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Eve Foster",
+    "email": "efghij@gmail.com",
+    "subject": "Next.js/Node.js staff augmentation",
+    "message": "Seeking long-term full-stack staff augmentation for a client dashboard project.",
+    "company": "Client Dashboards",
+    "received_date": "2025-12-01 17:00:00",
+    "tech_stack_preference": ["Next.js", "Node.js", "Staff Augmentation"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Gary Hicks",
+    "email": "klmnop@gmail.com",
+    "subject": "Quote for simple e-commerce site",
+    "message": "Building a small e-commerce site for a niche product. Need basic catalog and checkout.",
+    "company": "Niche Goods Co",
+    "received_date": "2025-11-29 14:10:00",
+    "tech_stack_preference": ["E-commerce", "Web Development", "Stripe API"],
+    "lead_status": "Proposal Sent",
+    "last_reply_sent": "2025-12-01 15:30:00"
+  },
+  {
+    "name": "Hannah Roy",
+    "email": "qrstuv@gmail.com",
+    "subject": "Looking for dedicated GoLang developer",
+    "message": "Seeking a dedicated GoLang developer to take ownership of a new distributed backend service.",
+    "company": "Distributed Tech",
+    "received_date": "2025-12-02 13:15:00",
+    "tech_stack_preference": ["GoLang", "Backend Development", "Microservices"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Ian Sims",
+    "email": "wxyzab@gmail.com",
+    "subject": "Quote for custom HR onboarding tool",
+    "message": "Need a custom web tool built for managing employee onboarding workflows and documents.",
+    "company": "Onboard Pro",
+    "received_date": "2025-12-03 17:45:00",
+    "tech_stack_preference": ["Custom Web App", "HR Tech", "Workflow Automation"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Jenna Kim",
+    "email": "cdefgh@gmail.com",
+    "subject": "Help with native mobile app performance",
+    "message": "Our Native iOS and Android apps are experiencing performance issues and need optimization expertise.",
+    "company": "Fast Mobile Dev",
+    "received_date": "2025-11-28 17:30:00",
+    "tech_stack_preference": ["Mobile App", "Optimization", "iOS/Android"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-29 17:30:00"
+  },
+  {
+    "name": "Kyle Wu",
+    "email": "ijklmn@gmail.com",
+    "subject": "Quote for new FinTech investment portal",
+    "message": "Build a secure web portal for clients to view investment performance and execute transactions.",
+    "company": "Wealth Stream",
+    "received_date": "2025-12-03 10:05:00",
+    "tech_stack_preference": ["Custom Web App", "FinTech", "Security"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Lila Young",
+    "email": "opqrst@gmail.com",
+    "subject": "Looking for Flutter developer for B2B app",
+    "message": "Seeking a Flutter developer to build a B2B ordering and inventory tracking app.",
+    "company": "BizOrder Pro",
+    "received_date": "2025-12-02 08:45:00",
+    "tech_stack_preference": ["Flutter", "B2B Portal", "Inventory Management"],
+    "lead_status": "New",
+    "last_reply_sent": "N/A"
+  },
+  {
+    "name": "Mark Zafar",
+    "email": "uvwxyz@gmail.com",
+    "subject": "AI/ML model for fraud risk scoring",
+    "message": "Need an ML expert to develop and deploy a real-time risk scoring model for online transactions.",
+    "company": "Risk Assess Co",
+    "received_date": "2025-11-29 15:30:00",
+    "tech_stack_preference": ["AI/ML", "Fraud Detection", "Real-Time Data"],
+    "lead_status": "Contacted",
+    "last_reply_sent": "2025-11-30 14:00:00"
   }
 ]
